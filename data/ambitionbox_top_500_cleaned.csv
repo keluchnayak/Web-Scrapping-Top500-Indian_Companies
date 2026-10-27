@@ -1,0 +1,495 @@
+rank,company_name,company_url,rating,review_count,industry,company_type,headquarters,employees,work_life_balance,job_security,skill_development,salary_benefits,promotions_appraisals,company_culture,work_satisfaction,hq_city,employees_clean
+1,TCS,https://www.ambitionbox.com/overview/tcs-overview,3.2,122908,IT Services & Consulting,Public,"Mumbai, Maharashtra",100001+,3.5,3.7,3.1,2.4,2.2,3.2,3.0,Mumbai,100001+
+2,Accenture,https://www.ambitionbox.com/overview/accenture-overview,3.7,79820,IT Services & Consulting,Public,Dublin,100001+,3.6,3.7,3.6,3.2,2.8,3.7,3.4,Dublin,100001+
+3,Wipro,https://www.ambitionbox.com/overview/wipro-overview,3.6,70057,IT Services & Consulting,Public,"Bangalore/Bengaluru, Karnataka",100001+,3.6,3.7,3.5,3.0,2.8,3.5,3.4,Bangalore/Bengaluru,100001+
+4,Cognizant,https://www.ambitionbox.com/overview/cognizant-overview,3.7,66141,IT Services & Consulting,,Teaneck. New Jersey.,100001+,3.6,3.5,3.6,3.2,2.8,3.5,3.4,Teaneck. New Jersey.,100001+
+5,Capgemini,https://www.ambitionbox.com/overview/capgemini-overview,3.6,58126,IT Services & Consulting,,"Paris, France ",100001+,3.8,3.8,3.6,3.0,2.7,3.6,3.4,Paris,100001+
+6,HDFC Bank,https://www.ambitionbox.com/overview/hdfc-bank-overview,3.8,57782,Banking,Public,"Mumbai, Maharashtra",100001+,3.5,3.9,3.7,3.4,3.1,3.5,3.5,Mumbai,100001+
+7,Infosys,https://www.ambitionbox.com/overview/infosys-overview,3.5,52784,IT Services & Consulting,Public,"Bengaluru/Bangalore, Karnataka",100001+,3.7,3.9,3.5,2.7,2.6,3.6,3.3,Bengaluru/Bangalore,100001+
+8,HCLTech,https://www.ambitionbox.com/overview/hcl-technologies-overview,3.4,49852,IT Services & Consulting,Public,"Noida, Uttar Pradesh",100001+,3.5,3.6,3.2,2.8,2.5,3.3,3.2,Noida,100001+
+9,ICICI Bank,https://www.ambitionbox.com/overview/icici-bank-overview,3.9,49037,Banking,Public,"Mumbai, Maharashtra",100001+,3.7,4.0,3.8,3.7,3.8,3.7,3.6,Mumbai,100001+
+10,Tech Mahindra,https://www.ambitionbox.com/overview/tech-mahindra-overview,3.3,47052,IT Services & Consulting,Public,"Pune, Maharashtra",100001+,3.3,3.3,3.2,2.8,2.6,3.1,3.0,Pune,100001+
+11,Genpact,https://www.ambitionbox.com/overview/genpact-overview,3.6,46452,Analytics & KPO,Public,"New York, New York",100001+,3.6,3.8,3.5,3.0,2.9,3.5,3.4,New York,100001+
+12,TP ,https://www.ambitionbox.com/overview/tp-overview,3.8,42579,BPO,,Paris,100001+,3.7,3.7,3.6,3.6,3.4,3.6,3.6,Paris,100001+
+13,Axis Bank,https://www.ambitionbox.com/overview/axis-bank-overview,3.6,36678,Banking,Public,"Mumbai, Maharashtra",50001-100000,3.4,3.4,3.5,3.4,3.2,3.4,3.3,Mumbai,50001-100000
+14,Jio,https://www.ambitionbox.com/overview/jio-overview,4.3,35579,Telecom,Public,"Navi Mumbai, Maharashtra",100001+,4.3,4.4,4.3,4.2,4.0,4.2,4.2,Navi Mumbai,100001+
+15,Concentrix Corporation,https://www.ambitionbox.com/overview/concentrix-corporation-overview,3.5,35475,BPO,Public,"Fremont, California",50001-100000,3.4,3.8,3.2,3.0,2.8,3.4,3.2,Fremont,50001-100000
+16,Amazon,https://www.ambitionbox.com/overview/amazon-overview,3.9,34789,Internet,Public,"Seattle,Washington",100001+,3.9,3.4,3.6,3.8,3.2,4.0,3.6,Seattle,100001+
+17,Reliance Retail,https://www.ambitionbox.com/overview/reliance-retail-overview,3.9,29776,Retail,,"Ghansoli, Navi Mumbai",100001+,3.8,3.9,3.8,3.6,3.2,3.7,3.6,Ghansoli,100001+
+18,iEnergizer,https://www.ambitionbox.com/overview/ienergizer-overview,4.5,28655,BPO,,"Noida, Uttar Pradesh",100001+,4.4,4.4,4.4,4.5,4.3,4.4,4.4,Noida,100001+
+19,LTM Limited,https://www.ambitionbox.com/overview/ltm-limited-overview,3.5,28593,IT Services & Consulting,Public,,50001-100000,3.6,3.5,3.5,3.1,2.7,3.4,3.3,,50001-100000
+20,HDB Financial Services,https://www.ambitionbox.com/overview/hdb-financial-services-overview,3.9,28216,NBFC,,"Ahmedabad, Gujrat",100001+,3.8,3.8,3.8,3.4,3.3,3.7,3.7,Ahmedabad,100001+
+21,IBM,https://www.ambitionbox.com/overview/ibm-overview,3.9,27679,IT Services & Consulting,Public,"Armonk,New York",100001+,4.0,3.8,3.8,3.4,2.9,3.8,3.6,Armonk,100001+
+22,Larsen & Toubro Limited,https://www.ambitionbox.com/overview/larsen-and-toubro-limited-overview,3.9,26589,Engineering & Construction,Public,"Mumbai, Maharashtra",50001-100000,3.5,4.0,3.9,3.8,3.3,3.7,3.6,Mumbai,50001-100000
+23,Deloitte,https://www.ambitionbox.com/overview/deloitte-overview,3.6,25891,Management Consulting,,"London, United Kingdom ",,3.2,3.7,3.7,3.5,3.0,3.6,3.3,London,
+24,Kotak Mahindra Bank,https://www.ambitionbox.com/overview/kotak-mahindra-bank-overview,3.6,24395,Banking,Public,"Mumbai, Maharashtra",100001+,3.5,3.6,3.5,3.4,3.1,3.4,3.3,Mumbai,100001+
+25,Reliance Industries ,https://www.ambitionbox.com/overview/reliance-industries-overview,4.0,22108,Oil & Gas,Public,"Navi Mumbai, Maharashtra",100001+,3.9,4.1,3.9,3.6,3.3,3.8,3.7,Navi Mumbai,100001+
+26,Bharti Airtel,https://www.ambitionbox.com/overview/bharti-airtel-overview,3.8,18686,Telecom,Public,"Gurgaon/Gurugram, Haryana",,3.5,3.6,3.7,3.6,3.1,3.6,3.5,Gurgaon/Gurugram,
+27,Vodafone Idea,https://www.ambitionbox.com/overview/vodafone-idea-overview,3.9,18633,Telecom,Public,"Mumbai, Maharashtra",10001-50000,3.8,3.7,3.7,3.9,3.3,3.8,3.6,Mumbai,10001-50000
+28,WNS,https://www.ambitionbox.com/overview/wns-overview,3.3,16748,IT Services & Consulting,,"Mumbai, Maharashtra",10001-50000,3.3,3.5,3.0,2.9,2.6,3.1,3.1,Mumbai,10001-50000
+29,IDFC FIRST Bank,https://www.ambitionbox.com/overview/idfc-first-bank-overview,4.0,16665,Banking,Public,"Mumbai, Maharashtra",10001-50000,3.8,3.8,3.8,3.9,3.5,3.7,3.7,Mumbai,10001-50000
+30,BYJU'S,https://www.ambitionbox.com/overview/byjus-overview,3.2,16568,EdTech,,"Bangalore,Karnataka",5001-10000,2.8,2.4,3.1,3.5,2.9,2.8,2.8,Bangalore,5001-10000
+31,Ernst & Young,https://www.ambitionbox.com/overview/ernst-young-overview,3.4,16291,Management Consulting,,London,100001+,3.1,3.5,3.5,3.2,2.9,3.2,3.1,London,100001+
+32,IndusInd Bank,https://www.ambitionbox.com/overview/indusind-bank-overview,3.4,15622,Banking,Public,"Gurgaon/Gurugram, Haryana",10001-50000,3.4,3.3,3.2,3.3,3.0,3.1,3.2,Gurgaon/Gurugram,10001-50000
+33,AU Small Finance Bank,https://www.ambitionbox.com/overview/au-small-finance-bank-overview,3.8,15566,Banking,,"Jaipur, Rajasthan",10001-50000,3.6,3.6,3.7,3.7,3.4,3.5,3.5,Jaipur,10001-50000
+34,Tata Motors,https://www.ambitionbox.com/overview/tata-motors-overview,4.1,15461,Automobile,Public,"Pune, Maharashtra",50001-100000,4.0,4.0,4.0,3.7,3.4,4.0,3.9,Pune,50001-100000
+35,Bajaj Finserv,https://www.ambitionbox.com/overview/bajaj-finserv-overview,3.9,15254,NBFC,Public,"Pune,Maharashtra",10001-50000,3.6,3.8,3.9,4.0,3.5,3.6,3.7,Pune,10001-50000
+36,Flipkart,https://www.ambitionbox.com/overview/flipkart-overview,3.9,14253,Internet,Public,"Bangalore,Karnataka",10001-50000,3.7,3.7,3.8,3.8,3.3,3.8,3.7,Bangalore,10001-50000
+37,Muthoot FinCorp,https://www.ambitionbox.com/overview/muthoot-fincorp-overview,4.5,14154,NBFC,Public,"Trivandrum/Thiruvananthapuram, Kerala",10001-50000,4.4,4.4,4.4,4.1,4.0,4.4,4.3,Trivandrum/Thiruvananthapuram,10001-50000
+38,PwC,https://www.ambitionbox.com/overview/pwc-overview,3.3,14140,Management Consulting,,"London, United Kingdom",100001+,3.0,3.4,3.4,3.3,2.8,3.2,3.0,London,100001+
+39,Mahindra & Mahindra,https://www.ambitionbox.com/overview/mahindra-and-mahindra-overview,4.0,13278,Automobile,Public,"Mumbai, Maharashtra",100001+,3.8,4.0,3.9,3.7,3.4,3.8,3.8,Mumbai,100001+
+40,HDFC Life,https://www.ambitionbox.com/overview/hdfc-life-overview,3.8,13276,Insurance,Public,"Mumbai, Maharashtra",10001-50000,3.7,3.7,3.8,3.7,3.4,3.6,3.5,Mumbai,10001-50000
+41,Infosys BPM ,https://www.ambitionbox.com/overview/infosys-bpm-overview,3.5,13044,BPO,,"Bangalore/Bengaluru, Karnataka",50001-100000,3.5,4.1,3.5,2.7,2.6,3.6,3.3,Bangalore/Bengaluru,50001-100000
+42,DXC Technology,https://www.ambitionbox.com/overview/dxc-technology-overview,3.6,12793,IT Services & Consulting,Public,"Minato,Tokyo",100001+,3.8,3.5,3.5,2.9,2.6,3.5,3.4,Minato,100001+
+43,Bandhan Bank,https://www.ambitionbox.com/overview/bandhan-bank-overview,3.6,12782,Banking,Public,"Kolkata, West Bengal",50001-100000,3.6,3.6,3.4,3.5,3.2,3.4,3.4,Kolkata,50001-100000
+44,Digitide Solutions,https://www.ambitionbox.com/overview/conneqt-business-solutions-overview,3.4,11412,IT Services & Consulting,,"Mumbai, Maharashtra",10001-50000,3.3,3.3,3.3,3.0,2.8,3.3,3.2,Mumbai,10001-50000
+45,Yes Bank,https://www.ambitionbox.com/overview/yes-bank-overview,3.6,11182,Banking,Public,"Mumbai, Maharashtra",10001-50000,3.6,3.3,3.4,3.7,3.3,3.4,3.4,Mumbai,10001-50000
+46,Quess,https://www.ambitionbox.com/overview/quess-overview,3.8,11012,Recruitment,Public,Bangalore,100001+,3.7,3.4,3.6,3.5,3.1,3.6,3.6,Bangalore,100001+
+47,Mphasis,https://www.ambitionbox.com/overview/mphasis-overview,3.2,11001,IT Services & Consulting,Public,"Bangalore/Bengaluru, Karnataka",10001-50000,3.5,3.4,3.1,2.7,2.4,3.1,3.1,Bangalore/Bengaluru,10001-50000
+48,Tata Steel,https://www.ambitionbox.com/overview/tata-steel-overview,4.0,10998,Iron & Steel,Public,"Mumbai, Maharashtra",100001+,4.0,4.0,4.0,3.5,3.2,3.9,3.8,Mumbai,100001+
+49,Maruti Suzuki,https://www.ambitionbox.com/overview/maruti-suzuki-overview,4.1,10667,Automobile,Public,"New Delhi, Delhi",10001-50000,3.9,4.2,4.0,4.2,3.7,3.9,3.9,New Delhi,10001-50000
+50,UltraTech Cement,https://www.ambitionbox.com/overview/ultratech-cement-overview,4.1,10660,Building Material,Public,"Mumbai, Maharashtra",10001-50000,3.8,4.2,4.0,3.8,3.4,3.9,3.8,Mumbai,10001-50000
+51,Startek,https://www.ambitionbox.com/overview/startek-overview,3.0,10611,BPO,Public,"Mumbai, Maharashtra",10001-50000,2.9,2.9,2.9,2.7,2.5,2.8,2.8,Mumbai,10001-50000
+52,Asian Paints,https://www.ambitionbox.com/overview/asian-paints-overview,3.9,10463,Chemicals,Public,"Mumbai, Maharashtra",10001-50000,3.5,3.8,3.9,4.2,3.3,3.6,3.6,Mumbai,10001-50000
+53,Bajaj Finance,https://www.ambitionbox.com/overview/bajaj-finance-overview,3.9,10501,NBFC,,"Pune, Maharashtra",10001-50000,3.5,3.8,3.9,4.0,3.6,3.5,3.6,Pune,10001-50000
+54,Paytm,https://www.ambitionbox.com/overview/paytm-overview,3.2,10187,FinTech,Public,Noida,10001-50000,3.1,2.8,3.2,3.2,2.9,3.0,3.0,Noida,10001-50000
+55,Sutherland Global Services,https://www.ambitionbox.com/overview/sutherland-global-services-overview,3.3,10083,BPO,,,10001-50000,3.2,3.2,3.1,3.0,2.6,3.2,3.1,,10001-50000
+56,Shriram Finance,https://www.ambitionbox.com/overview/shriram-finance-overview,3.9,10096,NBFC,Public,"Mumbai, Maharashtra",50001-100000,3.8,3.9,3.7,3.4,3.3,3.7,3.7,Mumbai,50001-100000
+57,Coforge,https://www.ambitionbox.com/overview/coforge-overview,3.3,9761,IT Services & Consulting,Public,"Noida, Uttar Pradesh",10001-50000,3.4,3.1,3.1,3.1,2.7,3.2,3.1,Noida,10001-50000
+58,Equitas Small Finance Bank,https://www.ambitionbox.com/overview/equitas-small-finance-bank-overview,4.3,9573,Banking,,"Chennai, Tamil Nadu",10001-50000,4.1,4.2,4.1,4.0,3.9,4.1,4.1,Chennai,10001-50000
+59,Wells Fargo,https://www.ambitionbox.com/overview/wells-fargo-overview,3.5,9501,Financial Services,Public,"San Francisco, California",100001+,3.7,3.3,3.1,3.6,2.8,3.4,3.2,San Francisco,100001+
+60,Cipla,https://www.ambitionbox.com/overview/cipla-overview,4.1,9380,Pharma,Public,,10001-50000,3.9,3.7,3.9,4.0,3.5,3.8,3.7,,10001-50000
+61,EXL Service,https://www.ambitionbox.com/overview/exl-service-overview,3.6,9240,Analytics & KPO,,"New York City,New York",50001-100000,3.7,3.9,3.3,3.1,2.9,3.5,3.4,New York City,50001-100000
+62,Ericsson,https://www.ambitionbox.com/overview/ericsson-overview,3.9,8982,Telecom,,"Stockholm, Sweden",50001-100000,4.0,3.6,3.6,3.3,2.9,3.9,3.6,Stockholm,50001-100000
+63,Samsung,https://www.ambitionbox.com/overview/samsung-overview,3.9,8910,Consumer Electronics & Appliances,Public,Seoul,5001-10000,3.7,3.5,3.7,3.7,3.1,3.6,3.6,Seoul,5001-10000
+64,Dr. Reddy's,https://www.ambitionbox.com/overview/dr-dot-reddys-overview,4.0,8873,Pharma,Public,"Hyderabad / Secunderabad, Telangana",10001-50000,3.9,3.5,3.9,3.9,3.2,3.9,3.7,Hyderabad / Secunderabad,10001-50000
+65,Delhivery,https://www.ambitionbox.com/overview/delhivery-overview,3.8,8870,Logistics,,"Delhi,NCT",10001-50000,3.5,3.7,3.7,3.5,3.2,3.5,3.5,Delhi,10001-50000
+66,JSW Steel,https://www.ambitionbox.com/overview/jsw-steel-overview,3.9,8856,Iron & Steel,Public,"Mumbai, Maharashtra",10001-50000,3.7,4.2,3.8,3.6,3.2,3.6,3.6,Mumbai,10001-50000
+67,Ekart Logistics,https://www.ambitionbox.com/overview/ekart-logistics-overview,3.9,8705,Logistics,,"San Francisco,California",1001-5000,3.7,3.5,3.8,3.7,3.2,3.7,3.7,San Francisco,1001-5000
+68,Optum Global Solutions,https://www.ambitionbox.com/overview/optum-global-solutions-overview,4.0,8727,IT Services & Consulting,,"Gurgaon / Gurugram, Haryana",50001-100000,4.1,4.2,3.7,3.5,3.1,4.0,3.8,Gurgaon / Gurugram,50001-100000
+69,Ujjivan Small Finance Bank,https://www.ambitionbox.com/overview/ujjivan-small-finance-bank-overview,4.0,8481,Banking,Public,"Bangalore/Bengaluru, Karnataka",10001-50000,3.9,3.8,3.8,3.8,3.5,3.9,3.7,Bangalore/Bengaluru,10001-50000
+70,ICICI Prudential Life Insurance,https://www.ambitionbox.com/overview/icici-prudential-life-insurance-overview,3.9,8431,Insurance,Public,"Mumbai, Maharashtra",10001-50000,3.7,3.9,3.8,3.9,3.5,3.7,3.6,Mumbai,10001-50000
+71,JPMorgan Chase & Co.,https://www.ambitionbox.com/overview/jpmorgan-chase-and-co-dot-overview,3.8,8405,Financial Services,Public,"New York, New York",100001+,3.6,3.8,3.7,3.8,3.1,3.7,3.5,New York,100001+
+72,Jana Small Finance Bank,https://www.ambitionbox.com/overview/jana-small-finance-bank-overview,3.7,8394,Banking,Public,"Bangalore/Bengaluru, Karnataka",10001-50000,3.6,3.5,3.6,3.8,3.4,3.5,3.5,Bangalore/Bengaluru,10001-50000
+73,Zydus Lifesciences,https://www.ambitionbox.com/overview/zydus-lifesciences-overview,4.0,8351,Pharma,Public,"Ahmedabad, India",10001-50000,3.8,3.8,3.9,4.1,3.7,3.8,3.8,Ahmedabad,10001-50000
+74,Hexaware Technologies,https://www.ambitionbox.com/overview/hexaware-technologies-overview,3.4,8473,IT Services & Consulting,,"Navi Mumbai, Maharashtra",10001-50000,3.4,3.3,3.4,3.0,2.8,3.3,3.2,Navi Mumbai,10001-50000
+75,Sun Pharmaceutical Industries,https://www.ambitionbox.com/overview/sun-pharmaceutical-industries-overview,4.0,8309,Pharma,Public,Mumbai,10001-50000,3.7,3.8,3.9,4.0,3.5,3.7,3.7,Mumbai,10001-50000
+76,KPMG India,https://www.ambitionbox.com/overview/kpmg-india-overview,3.4,8137,Management Consulting,,,10001-50000,3.1,3.5,3.3,3.2,2.9,3.3,3.1,,10001-50000
+77,Axis Max Life Insurance,https://www.ambitionbox.com/overview/axis-max-life-insurance-overview,4.0,8033,Insurance,,"Gurgaon/Gurugram, Haryana",10001-50000,3.9,3.8,3.9,3.8,3.6,3.9,3.7,Gurgaon/Gurugram,10001-50000
+78,Lupin,https://www.ambitionbox.com/overview/lupin-overview,4.1,7943,Pharma,Public,"Mumbai, Maharashtra",10001-50000,3.9,3.8,4.0,3.8,3.4,3.9,3.8,Mumbai,10001-50000
+79,HGS,https://www.ambitionbox.com/overview/hinduja-global-solutions-overview,3.7,7905,Emerging Technologies,Public,"Bangalore/Bengaluru, Karnataka",10001-50000,3.7,3.7,3.5,3.4,3.0,3.6,3.5,Bangalore/Bengaluru,10001-50000
+80,ITC,https://www.ambitionbox.com/overview/itc-overview,3.8,7895,FMCG,Public,"Kolkata, West Bengal",10001-50000,3.6,4.0,3.8,3.5,3.1,3.6,3.5,Kolkata,10001-50000
+81,Hindustan Unilever ,https://www.ambitionbox.com/overview/hindustan-unilever-overview,4.2,7810,FMCG,Public,"London, England",10001-50000,4.0,4.0,4.1,3.9,3.3,4.0,3.9,London,10001-50000
+82,Megha Engineering & Infrastructures,https://www.ambitionbox.com/overview/megha-engineering-and-infrastructure-overview,4.0,7780,Engineering & Construction,,"Hyderabad/Secunderabad, Telangana",10001-50000,3.8,3.8,3.7,3.7,3.2,3.7,3.7,Hyderabad/Secunderabad,10001-50000
+83,Amazon Development Centre India,https://www.ambitionbox.com/overview/amazon-development-centre-india-pvt-ltd-overview,3.8,7754,Internet,,"Mount Vernon, New York",51-200,3.8,3.4,3.4,3.6,3.0,3.9,3.5,Mount Vernon,51-200
+84,Cholamandalam Investment & Finance,https://www.ambitionbox.com/overview/cholamandalam-investment-and-finance-overview,3.9,7728,Financial Services,,"Chennai, Tamil Nadu",10001-50000,3.6,3.7,3.7,3.8,3.5,3.6,3.6,Chennai,10001-50000
+85,L&T Construction,https://www.ambitionbox.com/overview/l-and-t-construction-overview,4.0,7609,Engineering & Construction,Public,Chennai,10001-50000,3.5,4.0,4.0,3.8,3.4,3.7,3.7,Chennai,10001-50000
+86,Tata Projects,https://www.ambitionbox.com/overview/tata-projects-overview,4.2,7546,Engineering & Construction,Public,"Mumbai, Maharashtra",1001-5000,4.1,4.1,4.0,4.2,3.5,4.1,4.0,Mumbai,1001-5000
+87,Bajaj Life Insurance,https://www.ambitionbox.com/overview/bajaj-life-overview,3.8,7483,Insurance,,"Pune, Maharashtra",10001-50000,3.7,3.6,3.6,3.8,3.4,3.6,3.5,Pune,10001-50000
+88,L&T Technology Services,https://www.ambitionbox.com/overview/l-and-t-technology-services-overview,3.1,7309,IT Services & Consulting,Public,"Vadodara/Baroda, Gujarat",10001-50000,3.3,3.2,3.0,2.6,2.4,3.1,2.9,Vadodara/Baroda,10001-50000
+89,Muthoot Finance,https://www.ambitionbox.com/overview/muthoot-finance-overview,3.8,7273,NBFC,Public,"Kochi/Cochin, Kerala",10001-50000,3.6,3.8,3.7,3.6,3.4,3.6,3.6,Kochi/Cochin,10001-50000
+90,JLL,https://www.ambitionbox.com/overview/jll-overview,4.1,7190,Real Estate,,"Mumbai, Maharashtra",50001-100000,4.0,4.1,4.0,3.8,3.4,4.0,3.8,Mumbai,50001-100000
+91,Omega Healthcare,https://www.ambitionbox.com/overview/omega-healthcare-overview,3.7,7147,BPO,,"Boca Raton, Florida",10001-50000,3.6,3.7,3.6,3.4,3.0,3.6,3.5,Boca Raton,10001-50000
+92,Oracle,https://www.ambitionbox.com/overview/oracle-overview,3.1,7131,Software Product,Public,"Austin,Texas",100001+,3.7,2.8,3.0,2.8,2.2,3.2,3.0,Austin,100001+
+93,FIS,https://www.ambitionbox.com/overview/fis-overview,3.7,7035,FinTech,,"Jacksonville,Florida",50001-100000,3.9,3.3,3.3,3.4,2.9,3.7,3.5,Jacksonville,50001-100000
+94,DMart,https://www.ambitionbox.com/overview/dmart-overview,3.9,7058,Retail,,"Mumbai, Maharashtra",10001-50000,3.7,4.1,3.7,3.6,3.3,3.8,3.6,Mumbai,10001-50000
+95,eClerx,https://www.ambitionbox.com/overview/eclerx-overview,3.1,6935,IT Services & Consulting,Public,"Mumbai, Maharashtra",10001-50000,3.0,3.3,3.0,2.6,2.4,2.9,2.8,Mumbai,10001-50000
+96,IIFL Finance,https://www.ambitionbox.com/overview/iifl-finance-overview,4.0,6918,NBFC,Public,"Mumbai, Maharashtra",10001-50000,3.9,3.8,3.9,3.8,3.5,3.8,3.8,Mumbai,10001-50000
+97,PolicyBazaar,https://www.ambitionbox.com/overview/policybazaar-overview,3.7,6887,Internet,Public,"Gurgaon,Haryana",10001-50000,3.3,3.6,3.6,4.0,3.4,3.4,3.4,Gurgaon,10001-50000
+98,Indian Army,https://www.ambitionbox.com/overview/indian-army-overview,4.7,6816,Defence & Aerospace,Public,"New Delhi, Delhi",100001+,4.6,4.7,4.6,4.6,4.4,4.6,4.6,New Delhi,100001+
+99,Indiamart Intermesh,https://www.ambitionbox.com/overview/indiamart-intermesh-overview,3.6,6807,Internet,Public,"Noida,Uttar Pradesh",5001-10000,3.4,3.5,3.5,3.7,3.4,3.4,3.3,Noida,5001-10000
+100,Piramal Finance,https://www.ambitionbox.com/overview/piramal-finance-overview,4.2,6725,NBFC,Public,"Mumbai, Maharashtra",10001-50000,4.1,4.0,4.1,4.0,3.7,4.2,4.0,Mumbai,10001-50000
+101,SMFG India Credit,https://www.ambitionbox.com/overview/fullerton-india-overview,3.9,6686,NBFC,,Mumbai,10001-50000,3.7,3.7,3.7,4.0,3.4,3.7,3.6,Mumbai,10001-50000
+102,Virtusa Consulting Services,https://www.ambitionbox.com/overview/virtusa-consulting-services-overview,3.6,6615,IT Services & Consulting,,"Southborough, Massachusetts",10001-50000,3.6,3.3,3.5,3.3,2.9,3.4,3.4,Southborough,10001-50000
+103,Manappuram Finance,https://www.ambitionbox.com/overview/manappuram-finance-overview,4.0,6588,NBFC,Public,"Thrissur/Trichur, Kerala",10001-50000,3.8,3.6,3.8,3.7,3.7,3.7,3.7,Thrissur/Trichur,10001-50000
+104,bigbasket,https://www.ambitionbox.com/overview/bigbasket-overview,3.9,6560,Internet,,"Bangalore,Karnataka",10001-50000,3.7,3.9,3.7,3.6,3.3,3.7,3.6,Bangalore,10001-50000
+105,HSBC Group,https://www.ambitionbox.com/overview/hsbc-group-overview,3.8,6547,Financial Services,,"London, England",100001+,3.9,3.8,3.5,3.4,3.0,3.8,3.5,London,100001+
+106,Access Healthcare,https://www.ambitionbox.com/overview/access-healthcare-overview,3.7,6529,BPO,,"Dallas, Texas",10001-50000,3.5,3.6,3.4,3.6,3.1,3.5,3.4,Dallas,10001-50000
+107,GlobalLogic,https://www.ambitionbox.com/overview/globallogic-overview,3.5,6369,IT Services & Consulting,,"San Jose, California",10001-50000,3.7,3.4,3.2,2.9,2.6,3.5,3.3,San Jose,10001-50000
+108,Firstsource Solutions,https://www.ambitionbox.com/overview/first-source-overview,3.4,6367,BPO,Public,"Mumbai, Maharashtra",100001+,3.4,3.4,3.2,3.1,2.9,3.3,3.2,Mumbai,100001+
+109,Apollo Hospitals,https://www.ambitionbox.com/overview/apollo-hospitals-overview,4.0,6346,Healthcare,Public,"Chennai, Tamil Nadu",10001-50000,3.8,4.0,4.0,3.6,3.4,3.9,3.8,Chennai,10001-50000
+110,Tata Capital,https://www.ambitionbox.com/overview/tata-capital-overview,4.0,6323,NBFC,,"Mumbai, Maharashtra",10001-50000,3.8,3.9,3.8,3.8,3.4,3.8,3.7,Mumbai,10001-50000
+111,ICICI Lombard General Insurance Company,https://www.ambitionbox.com/overview/icici-lombard-general-insurance-company-limited-overview,3.5,6319,Insurance,Public,"Prabhadevi, Mumbai",10001-50000,3.3,3.4,3.4,3.4,2.8,3.3,3.2,Prabhadevi,10001-50000
+112,Siemens,https://www.ambitionbox.com/overview/siemens-india-overview,4.0,6276,Industrial Automation,Public,"Mumbai, Maharashtra",10001-50000,4.0,4.0,3.8,3.5,3.1,4.0,3.7,Mumbai,10001-50000
+113,HCL Group,https://www.ambitionbox.com/overview/hcl-overview,3.5,6229,IT Services & Consulting,,"Noida, Uttar Pradesh",100001+,3.6,3.7,3.4,2.9,2.7,3.4,3.3,Noida,100001+
+114,Shapoorji Pallonji Group,https://www.ambitionbox.com/overview/shapoorji-pallonji-overview,4.1,6222,Engineering & Construction,,"Mumbai, Maharashtra",50001-100000,4.0,4.2,3.9,3.8,3.4,4.0,3.9,Mumbai,50001-100000
+115,Aurobindo Pharma,https://www.ambitionbox.com/overview/aurobindo-pharma-overview,4.0,6214,Pharma,Public,"Hyderabad/Secunderabad, Telangana",10001-50000,3.8,4.4,3.6,3.9,3.4,3.6,3.7,Hyderabad/Secunderabad,10001-50000
+116,UST,https://www.ambitionbox.com/overview/ust-overview,3.7,6211,IT Services & Consulting,,"Aliso Viejo, California",100001+,3.8,3.3,3.5,3.4,3.0,3.7,3.5,Aliso Viejo,100001+
+117,Mahindra Finance,https://www.ambitionbox.com/overview/mahindra-finance-overview,3.8,6201,NBFC,Public,"Mumbai, Maharashtra",10001-50000,3.7,3.5,3.6,3.6,3.2,3.7,3.6,Mumbai,10001-50000
+118,Swiggy,https://www.ambitionbox.com/overview/swiggy-overview,3.7,6154,Internet,,"Bangalore,Karnataka",5001-10000,3.4,3.2,3.5,3.7,3.2,3.4,3.4,Bangalore,5001-10000
+119,Standard Chartered,https://www.ambitionbox.com/overview/standard-chartered-overview,3.6,6091,Banking,,"London, England",50001-100000,3.7,3.5,3.4,3.3,2.8,3.6,3.3,London,50001-100000
+120,Bosch Global Software Technologies,https://www.ambitionbox.com/overview/bosch-global-software-technologies-overview,3.7,6084,IT Services & Consulting,,Gerlingen,10001-50000,4.1,3.8,3.4,3.1,2.8,3.8,3.4,Gerlingen,10001-50000
+121,Hero MotoCorp,https://www.ambitionbox.com/overview/hero-motocorp-overview,4.1,6043,Automobile,Public,"Gurgaon/Gurugram, Haryana",5001-10000,4.0,3.8,3.8,3.8,3.4,3.9,3.8,Gurgaon/Gurugram,5001-10000
+122,Ashok Leyland,https://www.ambitionbox.com/overview/ashok-leyland-overview,4.0,6024,Automobile,Public,"Chennai, Tamil Nadu",10001-50000,3.8,3.7,3.9,3.6,3.3,3.8,3.8,Chennai,10001-50000
+123,Citicorp,https://www.ambitionbox.com/overview/citicorp-overview,3.6,5940,Financial Services,,"Mumbai, Maharashtra",100001+,3.5,3.3,3.3,3.9,3.0,3.4,3.3,Mumbai,100001+
+124,CGI Inc,https://www.ambitionbox.com/overview/cgi-inc-overview,4.0,5901,IT Services & Consulting,Public,"Montreal, Quebec",50001-100000,4.1,4.1,3.7,3.3,3.1,4.0,3.7,Montreal,50001-100000
+125,Udaan,https://www.ambitionbox.com/overview/udaan-overview,3.9,5893,Internet,,"Bangalore,Karnataka",5001-10000,3.8,3.1,3.8,3.9,3.4,3.7,3.7,Bangalore,5001-10000
+126,Kalpataru Projects International,https://www.ambitionbox.com/overview/kalpataru-projects-international-overview,4.1,5890,Engineering & Construction,Public,"Mumbai, Maharashtra",5001-10000,3.9,4.1,4.0,4.0,3.7,3.9,3.9,Mumbai,5001-10000
+127,NTT DATA,https://www.ambitionbox.com/overview/ntt-data-overview,3.8,5870,IT Services & Consulting,Public,"Chiyoda-ku, Tokyo",100001+,3.9,3.8,3.6,3.5,3.1,3.7,3.6,Chiyoda-ku,100001+
+128,Nagarjuna Construction Company,https://www.ambitionbox.com/overview/ncc-overview,4.0,5805,Engineering & Construction,Public,"Hyderabad/Secunderabad, Telangana",5001-10000,3.8,4.0,3.8,3.7,3.4,3.7,3.7,Hyderabad/Secunderabad,5001-10000
+129,SBI Cards & Payment Services,https://www.ambitionbox.com/overview/sbi-cards-and-payment-services-overview,3.7,5788,Financial Services,,"Gurgaon/Gurugram, Haryana",1001-5000,3.5,3.4,3.6,3.5,3.0,3.4,3.4,Gurgaon/Gurugram,1001-5000
+130,Schneider Electric,https://www.ambitionbox.com/overview/schneider-electric-overview,4.1,5773,Industrial Automation,,Paris,100001+,4.0,3.9,3.9,3.6,3.2,4.0,3.8,Paris,100001+
+131,IQVIA,https://www.ambitionbox.com/overview/iqvia-overview,3.7,5776,Clinical Research,,"Durham, North Carolina",50001-100000,3.8,3.7,3.5,3.2,2.8,3.7,3.4,Durham,50001-100000
+132,SBI Life Insurance Company,https://www.ambitionbox.com/overview/sbi-life-insurance-company-overview,3.7,5712,Insurance,,"Mumbai, Maharashtra",10001-50000,3.4,3.9,3.6,3.4,3.2,3.5,3.4,Mumbai,10001-50000
+133,BNY,https://www.ambitionbox.com/overview/bny-overview,3.6,5675,Financial Services,,"New York City, New York",10001-50000,3.8,3.0,3.5,3.6,2.8,3.7,3.4,New York City,10001-50000
+134,CBRE,https://www.ambitionbox.com/overview/cbre-overview,4.2,5662,Real Estate,,"Dallas, TX ",100001+,4.0,4.0,4.0,3.9,3.6,4.0,3.9,Dallas,100001+
+135,Cyient,https://www.ambitionbox.com/overview/cyient-overview,3.6,5653,IT Services & Consulting,Public,"Hyderabad/Secunderabad, Telangana",10001-50000,3.7,3.6,3.3,3.0,2.8,3.5,3.3,Hyderabad/Secunderabad,10001-50000
+136,TVS Motor,https://www.ambitionbox.com/overview/tvs-motor-overview,3.8,5638,Automobile,Public,"Chennai, Tamil Nadu",5001-10000,3.5,3.8,3.8,3.8,3.3,3.6,3.5,Chennai,5001-10000
+137,State Bank of India,https://www.ambitionbox.com/overview/state-bank-of-india-overview,3.9,5585,Banking,,"Mumbai, Maharashtra",100001+,3.6,4.0,3.8,3.8,3.5,3.6,3.6,Mumbai,100001+
+138,Persistent Systems,https://www.ambitionbox.com/overview/persistent-systems-overview,3.6,5562,IT Services & Consulting,Public,"Pune, Maharashtra",10001-50000,3.6,3.2,3.6,3.3,3.0,3.5,3.3,Pune,10001-50000
+139,JustDial,https://www.ambitionbox.com/overview/justdial-overview,3.4,5556,Internet,Public,"Mumbai,Maharashtra",10001-50000,3.4,3.1,3.3,3.3,2.9,3.2,3.1,Mumbai,10001-50000
+140,KEC International,https://www.ambitionbox.com/overview/kec-international-overview,4.0,5537,Engineering & Construction,Public,"Mumbai, Maharashtra",5001-10000,3.9,4.1,3.8,4.0,3.2,3.8,3.7,Mumbai,5001-10000
+141,ITC Infotech ,https://www.ambitionbox.com/overview/itc-infotech-india-overview,3.8,5446,IT Services & Consulting,,"Bangalore/Bengaluru, Karnataka",10001-50000,3.9,3.8,3.6,3.6,3.3,3.7,3.6,Bangalore/Bengaluru,10001-50000
+142,Utkarsh Small Finance Bank,https://www.ambitionbox.com/overview/utkarsh-small-finance-bank-overview,3.5,5440,Banking,Public,"Varanasi,Uttar Pradesh",1001-5000,3.4,3.3,3.4,3.4,3.2,3.3,3.3,Varanasi,1001-5000
+143,Lenskart,https://www.ambitionbox.com/overview/lenskart-overview,3.4,5445,Internet,,"Faridabad, Haryana",10001-50000,3.2,3.2,3.5,3.4,3.0,3.2,3.2,Faridabad,10001-50000
+144,Varun Beverages,https://www.ambitionbox.com/overview/varun-beverages-overview,4.0,5369,Beverage,Public,"Gurgaon/Gurugram, Haryana",10001-50000,3.8,3.9,3.8,3.7,3.3,3.7,3.7,Gurgaon/Gurugram,10001-50000
+145,Amdocs,https://www.ambitionbox.com/overview/amdocs-overview,3.6,5292,Software Product,,"Chesterfield,Missouri",10001-50000,3.6,3.0,3.3,3.4,2.9,3.7,3.3,Chesterfield,10001-50000
+146,vivo,https://www.ambitionbox.com/overview/vivo-overview,4.0,5262,Consumer Electronics & Appliances,,"Gurgaon/Gurugram, Haryana",10001-50000,3.8,3.7,3.9,3.7,3.4,3.9,3.7,Gurgaon/Gurugram,10001-50000
+147,Atos,https://www.ambitionbox.com/overview/atos-global-it-solutions-and-services-overview,3.8,5256,IT Services & Consulting,,"Navi Mumbai, Maharashtra",100001+,4.1,3.6,3.6,3.2,3.0,3.7,3.7,Navi Mumbai,100001+
+148,JBM Group,https://www.ambitionbox.com/overview/jbm-group-overview,3.9,5247,Auto Components,Public,"Gurgaon/Gurugram, Haryana",10001-50000,3.7,4.0,3.8,3.6,3.4,3.6,3.7,Gurgaon/Gurugram,10001-50000
+149,Hetero,https://www.ambitionbox.com/overview/hetero-overview,3.9,5219,Pharma,,"Hyderabad/Secunderabad, Telangana",10001-50000,3.8,4.1,3.7,3.5,3.3,3.6,3.6,Hyderabad/Secunderabad,10001-50000
+150,Randstad,https://www.ambitionbox.com/overview/randstad-overview,3.7,5175,Recruitment,,"Chennai, Tamil Nadu",10001-50000,3.7,3.2,3.4,3.5,3.0,3.5,3.4,Chennai,10001-50000
+151,L&T Finance,https://www.ambitionbox.com/overview/l-and-t-finance-overview,3.9,5158,NBFC,Public,"Mumbai, Maharashtra",10001-50000,3.7,3.8,3.7,3.9,3.4,3.6,3.6,Mumbai,10001-50000
+152,Aditya Birla Fashion and Retail,https://www.ambitionbox.com/overview/aditya-birla-fashion-and-retail-overview,4.1,5135,Fashion & Textile,,"Mumbai, Maharashtra",10001-50000,3.9,4.1,4.0,3.7,3.5,3.9,3.8,Mumbai,10001-50000
+153,Havells,https://www.ambitionbox.com/overview/havells-overview,3.9,5134,Electrical Equipment,Public,"Noida, Uttar Pradesh",,3.8,3.6,3.6,3.8,3.4,3.6,3.6,Noida,
+154,Ecom Express,https://www.ambitionbox.com/overview/ecom-express-overview,4.1,5120,Logistics,,"Gurgaon,Haryana",10001-50000,4.1,3.7,4.0,4.0,3.7,4.0,4.0,Gurgaon,10001-50000
+155,Intas Pharmaceuticals,https://www.ambitionbox.com/overview/intas-pharmaceuticals-overview,4.1,5120,Pharma,,"Ahmedabad, Gujrat",10001-50000,3.9,4.1,3.7,4.0,3.6,3.7,3.7,Ahmedabad,10001-50000
+156,Tata AIA Life Insurance,https://www.ambitionbox.com/overview/tata-aia-life-insurance-overview,3.8,5128,Insurance,,"Mumbai, Maharashtra",10001-50000,3.6,3.8,3.8,3.7,3.4,3.6,3.5,Mumbai,10001-50000
+157,R1 RCM,https://www.ambitionbox.com/overview/r1-rcm-overview,3.7,5098,BPO,,"Murray, Utah",10001-50000,3.7,3.8,3.5,3.6,3.2,3.7,3.5,Murray,10001-50000
+158,Bosch,https://www.ambitionbox.com/overview/bosch-overview,4.1,5089,Auto Components,Public,"Gerlingen, Baden-Wuerttemberg",100001+,4.1,3.9,4.0,3.8,3.3,4.1,3.9,Gerlingen,100001+
+159,EY Global Delivery Services ( EY GDS),https://www.ambitionbox.com/overview/eygbs-overview,3.4,5077,IT Services & Consulting,,"Bangalore/Bengaluru, Karnataka",50001-100000,3.3,3.7,3.6,3.3,2.9,3.3,3.1,Bangalore/Bengaluru,50001-100000
+160,Berger Paints,https://www.ambitionbox.com/overview/berger-paints-overview,3.7,5013,Chemicals,Public,"Kolkata, West Bengal",1001-5000,3.4,3.6,3.6,3.6,3.1,3.3,3.4,Kolkata,1001-5000
+161,Nagarro,https://www.ambitionbox.com/overview/nagarro-overview,3.8,5009,IT Services & Consulting,,"Munich, Bavaria",10001-50000,4.0,3.5,3.6,3.7,3.2,3.9,3.6,Munich,10001-50000
+162,Cars24,https://www.ambitionbox.com/overview/cars24-dot-com-overview,3.4,4974,Internet,,"Gurgaon,Haryana",1001-5000,3.2,2.9,3.4,3.6,3.1,3.2,3.2,Gurgaon,1001-5000
+163,Mahindra Logistics,https://www.ambitionbox.com/overview/mahindra-logistic-overview,3.7,4954,Logistics,Public,"Mumbai,Maharashtra",1001-5000,3.6,3.6,3.7,3.3,3.1,3.5,3.5,Mumbai,1001-5000
+164,TeamLease Services,https://www.ambitionbox.com/overview/team-lease-overview,3.9,4951,Recruitment,Public,"Bangalore/Bengaluru, Karnataka",1001-5000,3.8,3.5,3.7,3.7,3.1,3.7,3.7,Bangalore/Bengaluru,1001-5000
+165,Hewlett Packard Enterprise,https://www.ambitionbox.com/overview/hewlett-packard-enterprise-overview,4.1,4936,IT Services & Consulting,,"Houston,Texas",50001-100000,4.2,3.8,3.8,3.5,3.1,4.2,3.8,Houston,50001-100000
+166,Dell,https://www.ambitionbox.com/overview/dell-overview,3.7,4881,Consumer Electronics & Appliances,,"Round Rock,Texas",100001+,3.8,3.1,3.5,3.6,2.9,3.7,3.5,Round Rock,100001+
+167,Eviden,https://www.ambitionbox.com/overview/eviden-overview,3.6,4868,IT Services & Consulting,,,,3.8,3.4,3.5,3.1,2.9,3.6,3.5,,
+168,VE Commercial Vehicles,https://www.ambitionbox.com/overview/ve-commercial-vehicles-overview,3.9,4845,Automobile,,"Gurgaon/Gurugram, Haryana",10001-50000,3.8,4.1,3.8,3.4,3.2,3.8,3.7,Gurgaon/Gurugram,10001-50000
+169,Motilal Oswal Financial Services,https://www.ambitionbox.com/overview/motilal-oswal-financial-services-overview,3.6,4837,Financial Services,Public,"Mumbai, Maharashtra",10001-50000,3.4,3.4,3.7,3.5,3.2,3.5,3.3,Mumbai,10001-50000
+170,Deutsche Bank,https://www.ambitionbox.com/overview/deutsche-bank-overview,3.8,4815,Banking,,Frankfurt,10001-50000,4.0,3.9,3.4,3.5,2.9,3.8,3.5,Frankfurt,10001-50000
+171,Home Credit Finance,https://www.ambitionbox.com/overview/home-credit-finance-overview,3.9,4802,NBFC,,Gurugram,10001-50000,3.9,3.5,3.8,3.6,3.4,3.8,3.7,Gurugram,10001-50000
+172,Jubilant Foods Works,https://www.ambitionbox.com/overview/jubilant-foods-works-overview,3.7,4799,Hospitality,Public,"Noida, Uttar Pradesh",10001-50000,3.4,3.5,3.7,3.6,3.3,3.5,3.4,Noida,10001-50000
+173,OPPO,https://www.ambitionbox.com/overview/oppo-overview,3.9,4774,Consumer Electronics & Appliances,Public,"Dongguan, Guangdong",10001-50000,3.7,3.4,3.8,3.5,3.2,3.7,3.6,Dongguan,10001-50000
+174,Hyundai Motor India Limited,https://www.ambitionbox.com/overview/hyundai-motor-india-limited-overview,4.1,4766,Automobile,,"Gurugram, Haryana",50001-100000,3.9,4.0,3.9,4.0,3.4,3.9,3.9,Gurugram,50001-100000
+175,Thermax Limited,https://www.ambitionbox.com/overview/thermax-overview,4.2,4732,Industrial Machinery,Public,"Pune, Maharashtra",5001-10000,3.9,4.3,4.1,3.7,3.4,4.1,3.9,Pune,5001-10000
+176,Hindalco Industries,https://www.ambitionbox.com/overview/hindalco-industries-overview,4.2,4698,Metals & Mining,Public,"Mumbai, Maharashtra",10001-50000,4.1,4.4,4.1,3.7,3.5,4.0,3.9,Mumbai,10001-50000
+177,Blinkit,https://www.ambitionbox.com/overview/blinkit-overview,3.8,4694,Internet,,"Gurgaon,Haryana",1001-5000,3.6,3.5,3.8,3.8,3.3,3.5,3.6,Gurgaon,1001-5000
+178,Jindal Steel Limited,https://www.ambitionbox.com/overview/jindal-steel-limited-overview,4.0,4681,Iron & Steel,,"Delhi/NCR, New Delhi",10001-50000,3.8,3.8,3.9,3.7,3.4,3.7,3.7,Delhi/NCR,10001-50000
+179,Macleods Pharmaceuticals,https://www.ambitionbox.com/overview/macleods-pharmaceuticals-overview,3.8,4644,Pharma,Public,"Mumbai, Maharashtra",10001-50000,3.6,4.0,3.6,3.7,3.3,3.4,3.6,Mumbai,10001-50000
+180,Carelon Global Solutions,https://www.ambitionbox.com/overview/carelon-global-solutions-overview,3.9,4648,IT Services & Consulting,,"Indianapolis, Indiana","10,001+",3.9,3.9,3.6,3.7,3.1,4.0,3.7,Indianapolis,"10,001+"
+181,Aakash Educational Services,https://www.ambitionbox.com/overview/aakash-institute-overview,3.2,4600,Education & Training,,"New Delhi, Delhi",10001-50000,2.9,2.9,3.2,3.5,2.7,3.0,3.0,New Delhi,10001-50000
+182,State Street Corporation,https://www.ambitionbox.com/overview/state-street-corporation-overview,3.5,4580,Financial Services,,"Boston,Massachusetts",100001+,3.5,3.2,3.3,3.2,2.7,3.3,3.2,Boston,100001+
+183,Bajaj Auto,https://www.ambitionbox.com/overview/bajaj-auto-overview,3.8,4560,Automobile,Public,"Pune, Maharashtra",10001-50000,3.7,3.6,3.6,3.5,2.9,3.7,3.5,Pune,10001-50000
+184,PhonePe,https://www.ambitionbox.com/overview/phonepe-overview,3.9,4543,FinTech,,"Bangalore,Karnataka",1001-5000,3.8,3.7,3.8,3.9,3.4,3.7,3.6,Bangalore,1001-5000
+185,LG Electronics,https://www.ambitionbox.com/overview/lg-electronics-overview,3.8,4518,Consumer Electronics & Appliances,Public,"Seoul, Seoul",50001-100000,3.5,3.8,3.8,3.7,3.2,3.5,3.5,Seoul,50001-100000
+186,RBL Bank,https://www.ambitionbox.com/overview/rbl-bank-overview,3.5,4492,Banking,Public,"Mumbai, Maharashtra",5001-10000,3.4,3.3,3.2,3.4,3.0,3.2,3.2,Mumbai,5001-10000
+187,Royal Enfield,https://www.ambitionbox.com/overview/royal-enfield-overview,4.2,4473,Automobile,,"Gurgaon/Gurugram, Haryana",5001-10000,4.0,3.8,4.0,3.7,3.4,4.0,4.0,Gurgaon/Gurugram,5001-10000
+188,DCB Bank,https://www.ambitionbox.com/overview/dcb-bank-overview,3.8,4469,Banking,,"Mumbai, Maharashtra",5001-10000,3.8,3.6,3.6,3.7,3.4,3.7,3.5,Mumbai,5001-10000
+195,John Deere,https://www.ambitionbox.com/overview/john-deere-overview,4.0,4340,Industrial Machinery,,"Moline, Illinois",10001-50000,4.0,3.6,3.9,3.7,3.1,4.1,3.7,Moline,10001-50000
+196,Publicis Sapient,https://www.ambitionbox.com/overview/publicis-sapient-overview,3.2,4329,IT Services & Consulting,,"Boston, Massachusetts",10001-50000,3.3,2.8,3.4,3.3,2.4,3.2,3.1,Boston,10001-50000
+197,Tata Communications,https://www.ambitionbox.com/overview/tata-communications-overview,3.8,4327,Telecom,Public,"Mumbai, Maharashtra",5001-10000,3.8,3.7,3.6,3.3,3.0,3.7,3.5,Mumbai,5001-10000
+198,PNB MetLife,https://www.ambitionbox.com/overview/pnb-metlife-india-insurance-company-overview,3.3,4332,Insurance,,"Mumbai, Maharashtra",10001-50000,3.2,2.9,3.3,3.5,3.2,3.0,3.0,Mumbai,10001-50000
+199,Pidilite Industries,https://www.ambitionbox.com/overview/pidilite-industries-overview,4.2,4313,Chemicals,Public,"Mumbai, Maharashtra",5001-10000,4.2,4.3,4.0,3.9,3.4,4.2,4.0,Mumbai,5001-10000
+200,Kyndryl,https://www.ambitionbox.com/overview/kyndryl-overview,3.9,4286,IT Services & Consulting,Public,"New York City, USA",10001-50000,4.0,3.6,3.8,3.5,3.0,3.8,3.6,New York City,10001-50000
+201,Kogta Financial India Limited,https://www.ambitionbox.com/overview/kogta-financial-india-limited-overview,4.6,4274,NBFC,Public,"Jaipur, Rajasthan",5001-10000,4.5,4.4,4.4,4.2,4.2,4.5,4.4,Jaipur,5001-10000
+202,Aditya Birla Capital,https://www.ambitionbox.com/overview/aditya-birla-capital-overview,3.8,4266,NBFC,Public,Mumbai,10001-50000,3.7,3.6,3.6,3.7,3.3,3.6,3.5,Mumbai,10001-50000
+203,JK Cement,https://www.ambitionbox.com/overview/jk-cement-overview,4.0,4252,Building Material,Public,"Gurgaon / Gurugram, Haryana",1001-5000,3.8,3.8,3.7,4.0,3.4,3.8,3.7,Gurgaon / Gurugram,1001-5000
+204,KPIT Technologies,https://www.ambitionbox.com/overview/kpit-technologies-overview,2.8,4239,Software Product,Public,"Pune, Maharashtra",5001-10000,2.8,2.4,2.9,2.7,2.3,2.6,2.6,Pune,5001-10000
+205,Bank of America,https://www.ambitionbox.com/overview/bank-of-america-overview,4.1,4241,Banking,,Charlotte,100001+,4.2,4.4,3.6,3.6,3.0,4.1,3.7,Charlotte,100001+
+206,Escorts Kubota Limited,https://www.ambitionbox.com/overview/escorts-kubota-limited-overview,4.1,4238,Industrial Machinery,Public,"Faridabad, Haryana",,4.0,3.9,3.9,3.6,3.4,4.0,3.9,Faridabad,
+207,Tata Electronics,https://www.ambitionbox.com/overview/tata-electronics-overview,3.8,4232,Semiconductors,,"Mumbai, Maharashtra",,3.7,4.0,3.6,3.3,2.9,3.7,3.5,Mumbai,
+208,Subros,https://www.ambitionbox.com/overview/subros-overview,3.8,4182,Auto Components,Public,"Noida, Uttar Pradesh",1001-5000,3.6,4.1,3.8,3.0,3.1,3.7,3.5,Noida,1001-5000
+209,American Express,https://www.ambitionbox.com/overview/american-express-overview,4.1,4166,Financial Services,,"New York City,New York",50001-100000,4.2,4.0,3.7,4.0,3.3,4.1,3.8,New York City,50001-100000
+210,ADP Private Limited,https://www.ambitionbox.com/overview/adp-private-limited-overview,3.9,4163,Software Product,,"Roseland, New Jersey",50001-100000,3.9,4.2,3.5,3.4,3.0,3.8,3.6,Roseland,50001-100000
+211,PVR INOX,https://www.ambitionbox.com/overview/pvr-cinemas-overview,3.8,4156,Media & Entertainment,Public,"Gurgaon / Gurugram, Haryana",10001-50000,3.7,3.7,3.7,3.4,3.1,3.6,3.6,Gurgaon / Gurugram,10001-50000
+212,Maersk,https://www.ambitionbox.com/overview/maersk-overview,3.8,4146,Logistics,,Copenhagen,100001+,3.9,3.4,3.6,3.6,2.9,3.8,3.6,Copenhagen,100001+
+213,Cogent E Services,https://www.ambitionbox.com/overview/cogent-e-services-overview,3.1,4126,BPO,,"Noida, Uttar Pradesh",10001-50000,2.9,3.0,3.0,2.8,2.8,2.8,2.8,Noida,10001-50000
+214,Viatris,https://www.ambitionbox.com/overview/viatris-overview,4.1,4119,Pharma,,"Pittsburgh, Pennsylvania, United States",10001-50000,3.9,3.9,3.7,4.1,3.5,3.7,3.7,Pittsburgh,10001-50000
+215,XpressBees,https://www.ambitionbox.com/overview/xpressbees-overview,4.0,4114,Logistics,,"Pune,Maharashtra",5001-10000,4.0,3.8,3.9,3.8,3.6,3.9,3.9,Pune,5001-10000
+216,Oyo Rooms,https://www.ambitionbox.com/overview/oyo-rooms-overview,2.9,4102,Hospitality,,"Gurgaon,Haryana",10001-50000,2.8,2.6,2.8,3.4,2.7,2.7,2.7,Gurgaon,10001-50000
+217,Glenmark Pharmaceuticals,https://www.ambitionbox.com/overview/glenmark-pharmaceuticals-overview,3.8,4102,Pharma,Public,"Mumbai, Maharashtra",10001-50000,3.6,3.6,3.7,3.7,3.2,3.6,3.6,Mumbai,10001-50000
+218,Altruist Technologies,https://www.ambitionbox.com/overview/altruist-technologies-overview,4.3,4090,BPO,,"Chandigarh,Union Territory Of Chandigarh",10001-50000,4.2,4.3,4.2,4.0,4.1,4.2,4.2,Chandigarh,10001-50000
+219,ArcelorMittal Nippon Steel India,https://www.ambitionbox.com/overview/arcelormittal-nippon-steel-overview,4.1,4092,Metals & Mining,,"Surat, Gujarat",5001-10000,4.0,4.0,3.9,3.8,3.5,3.9,3.8,Surat,5001-10000
+220,Sodexo,https://www.ambitionbox.com/overview/sodexo-overview,4.0,4083,Hospitality,,Issy les Moulineaux,100001+,4.0,3.8,3.8,3.7,3.4,3.9,3.8,Issy les Moulineaux,100001+
+221,UNO Minda,https://www.ambitionbox.com/overview/uno-minda-overview,3.9,4075,Auto Components,,Gurgaon,10001-50000,3.7,4.1,3.8,3.7,3.4,3.8,3.6,Gurgaon,10001-50000
+222,Kotak Mahindra Life Insurance Company,https://www.ambitionbox.com/overview/kotak-mahindra-life-insurance-company-overview,3.5,4075,Insurance,Public,"Mumbai, Maharashtra",10001-50000,3.3,3.5,3.3,3.3,3.1,3.3,3.1,Mumbai,10001-50000
+223,Bharat Electronics,https://www.ambitionbox.com/overview/bel-overview,4.2,4068,Electronics Manufacturing,,"Bangalore/Bengaluru, Karnataka",10001-50000,4.2,3.9,3.9,3.8,3.4,4.0,3.9,Bangalore/Bengaluru,10001-50000
+224,Synechron,https://www.ambitionbox.com/overview/synechron-overview,3.4,4056,IT Services & Consulting,,"New York, New York",10001-50000,3.5,2.7,3.4,3.6,2.8,3.3,3.2,New York,10001-50000
+225,Birlasoft,https://www.ambitionbox.com/overview/birlasoft-overview,3.4,4053,IT Services & Consulting,Public,"Pune, Maharashtra",5001-10000,3.6,3.3,3.3,3.1,2.6,3.3,3.2,Pune,5001-10000
+226,Dabur,https://www.ambitionbox.com/overview/dabur-overview,3.8,4002,FMCG,Public,"Ghaziabad, Uttar Pradesh",5001-10000,3.7,3.6,3.6,3.8,3.2,3.5,3.5,Ghaziabad,5001-10000
+227,Reliance Communications,https://www.ambitionbox.com/overview/reliance-communications-overview,4.0,3958,Telecom,Public,"Navi Mumbai, Maharashtra",1001-5000,3.9,3.8,4.0,3.7,3.4,3.8,3.8,Navi Mumbai,1001-5000
+228,TVS Credit Services Ltd,https://www.ambitionbox.com/overview/tvs-credit-services-ltd-overview,4.1,3953,NBFC,Public,"Chennai,Tamil Nadu",10001-50000,4.0,3.9,4.0,4.0,3.5,3.9,3.9,Chennai,10001-50000
+229,Godrej & Boyce Manufacturing,https://www.ambitionbox.com/overview/godrej-and-boyce-manufacturing-overview,3.8,3924,Consumer Electronics & Appliances,,"Mumbai, Maharashtra",10001-50000,3.7,4.0,3.7,3.5,3.0,3.6,3.5,Mumbai,10001-50000
+230,Reliance Digital,https://www.ambitionbox.com/overview/reliance-digital-overview,4.1,3916,Retail,,"Mumbai, Maharashtra",5001-10000,4.0,4.1,4.2,3.5,3.5,4.0,3.9,Mumbai,5001-10000
+231,Ipca Laboratories,https://www.ambitionbox.com/overview/ipca-laboratories-overview,3.8,3911,Pharma,Public,"Mumbai, Maharashtra",10001-50000,3.9,4.1,3.7,3.1,2.9,3.7,3.7,Mumbai,10001-50000
+232,Abbott,https://www.ambitionbox.com/overview/abbott-overview,4.1,3908,Pharma,Public,"Illinois City, Illinois",10001-50000,4.0,3.7,4.0,4.0,3.2,3.9,3.8,Illinois City,10001-50000
+233,MRF Tyres,https://www.ambitionbox.com/overview/mrf-tyres-overview,3.6,3904,Auto Components,Public,"Chennai, Tamil Nadu",10001-50000,3.2,3.7,3.3,3.7,3.2,3.1,3.1,Chennai,10001-50000
+234,Indian Oil Corporation,https://www.ambitionbox.com/overview/indian-oil-corporation-overview,4.3,3906,Oil & Gas,,"Delhi/NCR, Delhi",10001-50000,4.2,4.1,4.1,4.0,3.7,4.2,4.1,Delhi/NCR,10001-50000
+235,IGT Solutions,https://www.ambitionbox.com/overview/igt-solutions-overview,3.1,3885,BPO,,"Gurgaon/Gurugram, Haryana",10001-50000,3.0,3.1,3.0,2.8,2.6,3.0,2.9,Gurgaon/Gurugram,10001-50000
+236,Sagility,https://www.ambitionbox.com/overview/sagility-overview,3.9,3881,BPO,,"Westminster, Colorado",10001-50000,3.9,4.2,3.7,3.3,3.3,3.9,3.7,Westminster,10001-50000
+237,Alkem Laboratories,https://www.ambitionbox.com/overview/alkem-laboratories-overview,3.9,3871,Pharma,Public,"Mumbai, Maharashtra",10001-50000,3.7,3.5,3.7,3.8,3.5,3.6,3.6,Mumbai,10001-50000
+238,Aarti Industries,https://www.ambitionbox.com/overview/aarti-industries-ltd-dot-overview,4.1,3876,Agro Chemicals,Public,"Mumbai, Maharashtra",1001-5000,4.2,4.3,4.0,3.5,3.5,4.0,3.9,Mumbai,1001-5000
+239,Reliance Projects & Property Management Services,https://www.ambitionbox.com/overview/reliance-projects-and-property-management-services-overview,4.0,3866,Other,,,,3.8,3.9,3.9,3.6,3.2,3.8,3.7,,
+240,Vishal Mega Mart,https://www.ambitionbox.com/overview/vishal-mega-mart-overview,3.8,3847,Retail,Public,"Gurgaon/Gurugram, Haryana",10001-50000,3.5,3.5,3.7,3.9,3.5,3.5,3.5,Gurgaon/Gurugram,10001-50000
+241,Honda Motorcycle & Scooter ,https://www.ambitionbox.com/overview/honda-motorcycle-and-scooter-overview,4.1,3839,Automobile,,"Gurgaon/Gurugram, Haryana",5001-10000,4.1,4.2,3.9,4.0,3.4,4.0,3.9,Gurgaon/Gurugram,5001-10000
+242,Samvardhana Motherson Group,https://www.ambitionbox.com/overview/motherson-sumi-systems-overview,3.7,3831,Auto Components,Public,"Noida, Uttar Pradesh",100001+,3.5,4.1,3.5,3.4,3.3,3.4,3.4,Noida,100001+
+243,DTDC Express,https://www.ambitionbox.com/overview/dtdc-express-limited-overview,3.7,3829,Logistics,,"Bangalore/Bengaluru, Karnataka",10001-50000,3.7,3.7,3.5,3.4,3.0,3.4,3.5,Bangalore/Bengaluru,10001-50000
+244,Barclays,https://www.ambitionbox.com/overview/barclays-overview,3.7,3780,Banking,,London,50001-100000,3.7,3.7,3.3,3.7,2.8,3.6,3.3,London,50001-100000
+245,ABB,https://www.ambitionbox.com/overview/abb-overview,4.0,3775,Industrial Machinery,Public,Zurich,100001+,4.0,4.0,3.8,3.6,3.2,4.0,3.8,Zurich,100001+
+246,RSPL Group,https://www.ambitionbox.com/overview/rspl-group-overview,4.0,3783,FMCG,,"Kanpur, Uttar Pradesh",100001+,3.9,4.0,3.8,3.6,3.3,3.8,3.8,Kanpur,100001+
+247,Niva Bupa Health Insurance Company ,https://www.ambitionbox.com/overview/niva-bupa-overview,3.9,3757,Insurance,,"Delhi/NCR, New Delhi",1001-5000,3.8,3.8,3.8,3.8,3.6,3.7,3.7,Delhi/NCR,1001-5000
+248,Bajaj General Insurance Limited,https://www.ambitionbox.com/overview/bajaj-general-insurance-limited-overview,3.6,3750,Insurance,,,,3.3,3.4,3.5,3.7,3.1,3.3,3.3,,
+249,[24]7.ai,https://www.ambitionbox.com/overview/24-or-7-customer-overview,3.4,3747,Hospitality,,"Campbell, California",10001-50000,3.3,3.2,3.3,2.9,2.8,3.5,3.2,Campbell,10001-50000
+250,"NTT DATA, Inc.",https://www.ambitionbox.com/overview/ntt-data-inc-overview,4.0,3742,IT Services & Consulting,,"Tokyo, Japan",10001-50000,4.0,3.9,3.7,3.5,3.1,3.8,3.7,Tokyo,10001-50000
+251,AGS Health,https://www.ambitionbox.com/overview/ags-health-overview,3.9,3737,Analytics & KPO,,Washington DC,10001-50000,3.8,3.9,3.7,3.4,3.4,3.9,3.7,Washington DC,10001-50000
+252,Johnson Controls,https://www.ambitionbox.com/overview/johnson-controls-overview,3.6,3737,Industrial Automation,Public,"Cork, Ireland",50001-100000,3.5,3.3,3.3,3.6,3.0,3.4,3.3,Cork,50001-100000
+253,Zepto,https://www.ambitionbox.com/overview/zepto-overview,3.6,3725,Internet,,"Bangalore / Bengaluru, Karnataka",5001-10000,3.3,3.2,3.6,3.7,3.2,3.3,3.4,Bangalore / Bengaluru,5001-10000
+254,IndusInd Nippon Life Insurance,https://www.ambitionbox.com/overview/indusind-nippon-life-insurance-overview,3.3,3709,Insurance,,"Mumbai, Maharashtra",10001-50000,3.3,3.0,3.1,3.3,3.1,3.1,3.1,Mumbai,10001-50000
+255,Hindustan Coca Cola Beverages,https://www.ambitionbox.com/overview/hindustan-coca-cola-beverages-overview,4.0,3694,Beverage,,Bangalore,5001-10000,3.7,3.8,3.9,3.9,3.3,3.7,3.7,Bangalore,5001-10000
+256,Croma,https://www.ambitionbox.com/overview/croma-overview,3.9,3701,Retail,,"Mumbai, Maharashtra",1001-5000,3.9,3.8,3.8,3.5,3.2,3.7,3.6,Mumbai,1001-5000
+257,Ceat Tyres,https://www.ambitionbox.com/overview/ceat-tyres-overview,3.9,3689,Auto Components,Public,"Mumbai, Maharashtra",5001-10000,3.7,4.0,3.8,3.3,3.1,3.9,3.5,Mumbai,5001-10000
+258,Jindal Stainless,https://www.ambitionbox.com/overview/jindal-stainless-overview,4.2,3648,Iron & Steel,Public,,100001+,4.0,4.2,4.0,3.8,3.5,3.8,3.8,,100001+
+259,InterGlobe Aviation,https://www.ambitionbox.com/overview/indigo-overview,3.4,3641,Aviation,,"Gurgaon/Gurugram, Haryana",10001-50000,3.2,3.7,3.4,3.0,3.0,3.3,3.1,Gurgaon/Gurugram,10001-50000
+260,UBS,https://www.ambitionbox.com/overview/ubs-overview,3.7,3632,Financial Services,,Zurich,50001-100000,4.0,3.3,3.5,3.6,2.8,3.7,3.4,Zurich,50001-100000
+261,Alstom Transportation,https://www.ambitionbox.com/overview/alstom-transportation-overview,3.7,3622,Engineering & Construction,,"Saint-Ouen, France",50001-100000,3.6,3.9,3.5,3.6,2.9,3.4,3.4,Saint-Ouen,50001-100000
+262,Tata AutoComp Systems,https://www.ambitionbox.com/overview/tata-autocomp-systems-overview,3.7,3614,Auto Components,Public,"Pune, Maharashtra",10001-50000,3.6,3.9,3.6,3.3,3.0,3.4,3.4,Pune,10001-50000
+263,NatWest Group,https://www.ambitionbox.com/overview/natwest-group-overview,3.9,3592,Banking,,"Edinburgh, Scotland",10001-50000,4.1,4.0,3.5,3.3,2.9,3.9,3.6,Edinburgh,10001-50000
+264,Ford Motor,https://www.ambitionbox.com/overview/ford-motor-overview,4.2,3584,Automobile,Public,"Dearborn, Michigan",100001+,4.2,3.9,3.9,4.0,3.4,4.2,3.9,Dearborn,100001+
+265,Conduent,https://www.ambitionbox.com/overview/conduent-overview,3.4,3576,BPO,,"Florham Park, New Jersey",50001-100000,3.6,3.5,3.0,2.8,2.4,3.3,3.2,Florham Park,50001-100000
+266,Tata Technologies,https://www.ambitionbox.com/overview/tata-technologies-overview,3.4,3572,Automobile,,Singapore,5001-10000,3.7,3.6,3.2,2.8,2.5,3.3,3.2,Singapore,5001-10000
+267,Max Healthcare,https://www.ambitionbox.com/overview/max-healthcare-overview,4.0,3554,Healthcare,,"Delhi/NCR, New Delhi",10001-50000,3.8,3.9,4.0,3.6,3.4,3.8,3.7,Delhi/NCR,10001-50000
+268,Tata AIG,https://www.ambitionbox.com/overview/tata-aig-general-insurance-overview,3.9,3542,Insurance,,"Mumbai, Maharashtra",5001-10000,3.9,4.1,3.8,3.5,3.2,3.9,3.7,Mumbai,5001-10000
+269,Bharat Financial Inclusion,https://www.ambitionbox.com/overview/bharat-financial-inclusion-overview,3.7,3538,Financial Services,Public,Hyderabad,10001-50000,3.5,3.6,3.5,3.8,3.3,3.5,3.4,Hyderabad,10001-50000
+270,HARMAN,https://www.ambitionbox.com/overview/harman-overview,3.9,3531,Consumer Electronics & Appliances,Public,"Stamford, Connecticut",10001-50000,3.9,3.5,3.5,3.7,3.2,3.8,3.6,Stamford,10001-50000
+271,GeBBS Healthcare Solutions,https://www.ambitionbox.com/overview/gebbs-healthcare-solutions-overview,3.8,3528,BPO,,"East Haven, Connecticut",5001-10000,3.6,3.9,3.7,3.3,3.2,3.6,3.6,East Haven,5001-10000
+272,Indian Air Force,https://www.ambitionbox.com/overview/indian-air-force-overview,4.6,3523,Defence & Aerospace,,"New Delhi, Delhi",100001+,4.2,4.7,4.3,4.3,3.8,4.2,4.1,New Delhi,100001+
+273,Mankind Pharma,https://www.ambitionbox.com/overview/mankind-pharma-overview,3.8,3514,Pharma,,"New Delhi, Delhi",10001-50000,3.5,3.5,3.7,3.8,3.5,3.5,3.5,New Delhi,10001-50000
+274,ESAF Small Finance Bank,https://www.ambitionbox.com/overview/esaf-small-finance-bank-overview,3.6,3510,Banking,,"Thrissur/Trichur, Kerala",1001-5000,3.5,3.4,3.5,3.4,3.0,3.4,3.3,Thrissur/Trichur,1001-5000
+275,IDFC FIRST Bharat ,https://www.ambitionbox.com/overview/idfc-first-bharat-overview,4.1,3508,Financial Services,,Tiruchirappalli,10001-50000,4.0,3.8,4.0,3.9,3.5,3.9,3.9,Tiruchirappalli,10001-50000
+276,Ola Electric Mobility ,https://www.ambitionbox.com/overview/ola-electric-mobility-overview,3.3,3505,Automobile,,"Bangalore,Karnataka",501-1000,3.1,2.7,3.5,3.7,2.9,3.0,3.1,Bangalore,501-1000
+277,Canara HSBC Life Insurance,https://www.ambitionbox.com/overview/canara-hsbc-life-insurance-overview,4.0,3499,Insurance,,"Gurgaon/Gurugram, Haryana",5001-10000,3.9,3.8,3.9,4.0,3.9,3.8,3.8,Gurgaon/Gurugram,5001-10000
+278,Titan Company,https://www.ambitionbox.com/overview/titan-company-overview,4.3,3490,Retail,Public,"Bangalore, Karnataka",10001-50000,4.1,4.2,4.1,3.8,3.4,4.2,4.0,Bangalore,10001-50000
+279,MSN Laboratories,https://www.ambitionbox.com/overview/msn-laboratories-overview,3.6,3486,Pharma,,"Hyderabad/Secunderabad, Telangana",10001-50000,3.4,4.0,3.4,3.5,3.4,3.2,3.3,Hyderabad/Secunderabad,10001-50000
+280,Amazon Transportation Services,https://www.ambitionbox.com/overview/amazon-transportation-services-overview,4.2,3472,Logistics,,"Seattle, Washington",5001-10000,4.0,3.8,4.1,4.1,3.5,4.1,4.0,Seattle,5001-10000
+281,PepsiCo,https://www.ambitionbox.com/overview/pepsico-overview,4.0,3470,Food Processing,Public,"Harrison, New York",100001+,4.0,3.8,3.8,3.8,3.3,4.0,3.7,Harrison,100001+
+282,UPL,https://www.ambitionbox.com/overview/upl-overview,4.1,3466,Agro Chemicals,Public,"Mumbai, Maharashtra",10001-50000,4.0,4.1,4.0,3.8,3.4,3.9,3.9,Mumbai,10001-50000
+283,Quest Global,https://www.ambitionbox.com/overview/quest-global-overview,3.5,3438,IT Services & Consulting,,"Indi, Karnataka",10001-50000,3.6,3.4,3.2,3.0,2.8,3.5,3.2,Indi,10001-50000
+284,Dilip Buildcon,https://www.ambitionbox.com/overview/dilip-buildcon-overview,3.9,3425,Engineering & Construction,Public,"Bhopal, Madhya Pradesh",10001-50000,3.7,3.4,3.7,3.8,3.3,3.6,3.7,Bhopal,10001-50000
+285,Suzlon Group,https://www.ambitionbox.com/overview/suzlon-group-overview,3.9,3419,Power,Public,"Pune,Maharashtra",5001-10000,3.8,4.0,4.0,3.3,3.1,3.8,3.7,Pune,5001-10000
+286,Varroc Group,https://www.ambitionbox.com/overview/varroc-group-overview,3.7,3407,Auto Components,Public,Aurangabad,501-1000,3.5,3.3,3.5,3.5,3.1,3.4,3.4,Aurangabad,501-1000
+287,Afcons Infrastructure,https://www.ambitionbox.com/overview/afcons-infrastructure-overview,4.2,3397,Engineering & Construction,,"Mumbai, Maharashtra",1001-5000,3.8,4.0,4.1,4.0,3.6,4.0,3.9,Mumbai,1001-5000
+288,Ambuja Cements,https://www.ambitionbox.com/overview/ambuja-cements-overview,3.9,3395,Building Material,Public,"Mumbai, Maharashtra",1001-5000,3.7,3.4,3.7,3.5,3.2,3.6,3.6,Mumbai,1001-5000
+289,Societe Generale Global Solution Centre,https://www.ambitionbox.com/overview/societe-generale-overview,3.6,3390,IT Services & Consulting,,"Paris, France",100001+,3.9,3.9,3.2,3.1,2.6,3.5,3.3,Paris,100001+
+290,DS Group,https://www.ambitionbox.com/overview/ds-group-overview,4.1,3390,FMCG,,"Noida, Uttar Pradesh",5001-10000,3.9,3.9,3.8,3.9,3.3,3.8,3.7,Noida,5001-10000
+291,S&P Global,https://www.ambitionbox.com/overview/s-and-p-global-overview,3.9,3392,Analytics & KPO,Public,"New York City,New York",10001-50000,4.1,3.4,3.4,3.6,2.9,4.0,3.5,New York City,10001-50000
+292,Walmart,https://www.ambitionbox.com/overview/walmart-overview,3.5,3385,Retail,,"Bangalore/Bengaluru, Karnataka",100001+,3.4,3.2,3.3,3.5,2.8,3.4,3.2,Bangalore/Bengaluru,100001+
+293,Torrent Pharmaceuticals,https://www.ambitionbox.com/overview/torrent-pharmaceuticals-overview,4.0,3367,Pharma,Public,"Ahmedabad, Gujarat",10001-50000,4.1,4.3,3.7,3.4,3.0,4.0,3.8,Ahmedabad,10001-50000
+294,Eternal Limited,https://www.ambitionbox.com/overview/eternal-overview,3.5,3367,Internet,Public,"Gurgaon,Haryana",10001-50000,3.2,2.9,3.2,3.6,3.0,3.4,3.2,Gurgaon,10001-50000
+295,Exl India,https://www.ambitionbox.com/overview/exl-india-overview,3.5,3338,Logistics,,New Delhi,10001-50000,3.6,3.8,3.3,3.1,2.8,3.4,3.3,New Delhi,10001-50000
+296,Indus Towers,https://www.ambitionbox.com/overview/indus-towers-overview,3.6,3324,Telecom,,"Gurgaon,Haryana",5001-10000,3.3,3.2,3.4,3.7,3.0,3.4,3.3,Gurgaon,5001-10000
+297,VVDN Technologies,https://www.ambitionbox.com/overview/vvdn-technologies-overview,3.6,3313,IT Services & Consulting,,Gurgaon,10001-50000,3.4,3.4,3.6,3.2,3.2,3.4,3.5,Gurgaon,10001-50000
+298,Allcargo Logistics,https://www.ambitionbox.com/overview/allcargo-logistics-overview,3.8,3302,Logistics,Public,"Mumbai, Maharashtra",5001-10000,3.8,3.7,3.7,3.5,3.1,3.6,3.6,Mumbai,5001-10000
+299,Yazaki,https://www.ambitionbox.com/overview/yazaki-overview,3.8,3274,Auto Components,,"Tokyo, Tokyo",100001+,3.7,3.9,3.7,3.6,3.3,3.6,3.6,Tokyo,100001+
+300,Foxconn,https://www.ambitionbox.com/overview/foxconn-overview,3.8,3274,Electronics Manufacturing,,Taipei,100001+,3.6,3.9,3.6,3.6,3.0,3.5,3.5,Taipei,100001+
+301,Shree Cement,https://www.ambitionbox.com/overview/shree-cement-overview,3.7,3269,Building Material,Public,"Kolkata, West Bengal",5001-10000,3.5,3.3,3.5,3.6,3.1,3.4,3.5,Kolkata,5001-10000
+302,Tata Elxsi,https://www.ambitionbox.com/overview/tata-elxsi-overview,3.3,3271,IT Services & Consulting,Public,"Bangalore/Bengaluru, Karnataka",10001-50000,3.6,3.5,3.3,2.7,2.8,3.2,3.1,Bangalore/Bengaluru,10001-50000
+303,Zensar Technologies,https://www.ambitionbox.com/overview/zensar-technologies-overview,3.5,3259,IT Services & Consulting,Public,"Pune, Maharashtra",5001-10000,3.7,3.2,3.3,3.3,2.9,3.4,3.3,Pune,5001-10000
+304,I Process Services,https://www.ambitionbox.com/overview/i-process-services-overview,3.8,3260,Recruitment,,"Mumbai, Maharashtra",5001-10000,3.8,3.5,3.7,3.1,2.8,3.7,3.6,Mumbai,5001-10000
+305,IKS Health,https://www.ambitionbox.com/overview/iks-health-overview,3.4,3253,BPO,Public,"Mumbai,Maharashtra",10001-50000,3.5,3.5,3.3,3.0,2.8,3.4,3.3,Mumbai,10001-50000
+306,Physicswallah,https://www.ambitionbox.com/overview/physicswallah-overview,3.6,3332,EdTech,,"Noida, Uttar Pradesh",10001-50000,3.5,3.2,3.4,3.4,3.0,3.4,3.3,Noida,10001-50000
+307,HDFC Sales,https://www.ambitionbox.com/overview/hdfc-sales-overview,3.9,3234,Financial Services,,"Mumbai, Maharashtra",10001-50000,3.9,3.7,4.0,3.3,3.2,3.9,3.7,Mumbai,10001-50000
+308,Fujitsu,https://www.ambitionbox.com/overview/fujitsu-overview,3.7,3211,IT Services & Consulting,,"Bangalore/Bengaluru, Karnataka",50001-100000,4.1,3.5,3.4,3.4,3.0,3.7,3.5,Bangalore/Bengaluru,50001-100000
+309,Square Yards,https://www.ambitionbox.com/overview/square-yards-overview,3.5,3187,Internet,,"Gurgaon / Gurugram, Haryana",5001-10000,3.3,3.2,3.5,3.6,3.5,3.4,3.3,Gurgaon / Gurugram,5001-10000
+310,ACC,https://www.ambitionbox.com/overview/acc-overview,3.9,3185,Building Material,Public,"Mumbai, Maharashtra",5001-10000,3.7,3.4,3.7,3.7,3.2,3.7,3.7,Mumbai,5001-10000
+311,Nokia,https://www.ambitionbox.com/overview/nokia-overview,4.0,3155,Telecom,,"Espoo, Southern Finland",10001-50000,4.1,3.7,3.7,3.6,3.2,4.0,3.7,Espoo,10001-50000
+312,Shoppers Stop,https://www.ambitionbox.com/overview/shoppers-stop-overview,3.9,3149,Retail,Public,"Mumbai, Maharashtra",10001-50000,3.8,3.8,3.8,3.5,3.3,3.8,3.7,Mumbai,10001-50000
+313,CMS IT Services,https://www.ambitionbox.com/overview/cms-it-services-overview,3.0,3133,IT Services & Consulting,,"Bangalore,Karnataka",1001-5000,3.0,3.0,3.0,2.6,2.3,2.8,2.9,Bangalore,1001-5000
+314,Marpu Foundation ,https://www.ambitionbox.com/overview/marpu-foundation-overview,4.9,3132,Non-Profit,,"Hyderabad/Secunderabad, Telangana",201-500,4.8,4.7,4.8,4.5,4.6,4.8,4.8,Hyderabad/Secunderabad,201-500
+315,Star Health & Allied Insurance,https://www.ambitionbox.com/overview/star-health-and-allied-insurance-overview,3.5,3132,Insurance,,"Chennai, Tamil Nadu",10001-50000,3.4,3.3,3.3,3.3,3.0,3.2,3.2,Chennai,10001-50000
+316,Apollo Tyres,https://www.ambitionbox.com/overview/apollo-tyres-overview,4.0,3126,Auto Components,Public,"Gurgaon/Gurugram, Haryana",10001-50000,3.8,3.8,3.9,3.6,3.2,3.9,3.8,Gurgaon/Gurugram,10001-50000
+317,Britannia,https://www.ambitionbox.com/overview/britannia-overview,4.0,3105,Hospitality,Public,"Bengaluru, Karnataka",1001-5000,3.7,4.0,3.8,3.7,3.3,3.6,3.6,Bengaluru,1001-5000
+318,Blue Dart Express Ltd,https://www.ambitionbox.com/overview/blue-dart-express-overview,4.0,3090,Logistics,Public,"Mumbai, Maharashtra",10001-50000,3.8,4.0,3.7,3.5,3.0,3.8,3.6,Mumbai,10001-50000
+319,Landmark Group,https://www.ambitionbox.com/overview/landmark-group-overview,3.8,3085,Retail,,"Dubai Marina, Dubai",10001-50000,3.7,3.8,3.7,3.5,3.1,3.7,3.5,Dubai Marina,10001-50000
+320,Fiserv,https://www.ambitionbox.com/overview/fiserv-overview,2.7,3072,FinTech,,"Brookfield,Wisconsin",10001-50000,2.7,2.4,2.6,3.0,2.3,2.5,2.5,Brookfield,10001-50000
+321,Future Group,https://www.ambitionbox.com/overview/future-group-overview,4.2,3067,Retail,,"Mumbai, Maharashtra",50001-100000,4.1,4.0,4.1,3.9,3.8,4.1,4.0,Mumbai,50001-100000
+322,Dalmia Bharat Cement,https://www.ambitionbox.com/overview/dalmia-cement-east-overview,3.9,3073,Building Material,Public,"Delhi/NCR, New Delhi",5001-10000,3.6,3.8,3.7,3.8,3.3,3.7,3.6,Delhi/NCR,5001-10000
+323,Tata Advanced Systems,https://www.ambitionbox.com/overview/tata-advanced-systems-overview,3.7,3067,Defence & Aerospace,,"Hyderabad/Secunderabad, Telangana",5001-10000,3.7,4.2,3.7,3.1,2.9,3.5,3.5,Hyderabad/Secunderabad,5001-10000
+324,SRF,https://www.ambitionbox.com/overview/srf-overview,4.1,3064,Chemicals,Public,"Gurgaon/Gurugram, Haryana",5001-10000,3.9,4.2,4.0,4.0,3.3,3.8,3.8,Gurgaon/Gurugram,5001-10000
+325,Kansai Nerolac Paints,https://www.ambitionbox.com/overview/kansai-nerolac-paints-overview,3.8,3056,Chemicals,Public,"Mumbai, Maharashtra",1001-5000,3.7,3.7,3.6,3.6,3.1,3.6,3.5,Mumbai,1001-5000
+326,Nestlé,https://www.ambitionbox.com/overview/nestl-overview,3.7,3040,FMCG,Public,Vevey,100001+,3.5,3.6,3.7,3.9,3.0,3.5,3.4,Vevey,100001+
+327,ZS,https://www.ambitionbox.com/overview/zs-overview,3.0,3025,Management Consulting,,"Evanston, Illinois",10001-50000,2.0,3.2,3.1,3.6,3.0,3.0,2.6,Evanston,10001-50000
+328,Exide Industries,https://www.ambitionbox.com/overview/exide-industries-overview,3.4,2994,Electrical Equipment,Public,"Kolkata, West Bengal",10001-50000,3.3,3.4,3.3,3.3,2.6,3.1,3.1,Kolkata,10001-50000
+329,Blue Star,https://www.ambitionbox.com/overview/blue-star-overview,4.0,2976,Consumer Electronics & Appliances,Public,"Mumbai, Maharashtra",1001-5000,3.8,3.7,3.9,3.8,3.4,3.9,3.7,Mumbai,1001-5000
+330,Care Health Insurance,https://www.ambitionbox.com/overview/care-health-insurance-overview,3.5,2956,Insurance,Public,"Gurgaon, Haryana",10001-50000,3.5,3.5,3.3,3.2,3.1,3.3,3.3,Gurgaon,10001-50000
+331,Gallagher,https://www.ambitionbox.com/overview/gallagher-overview,3.6,2948,Insurance,,"Rolling Meadows, Illinois, USA",100001+,3.8,3.8,3.5,2.9,2.8,3.7,3.4,Rolling Meadows,100001+
+332,G4S,https://www.ambitionbox.com/overview/g4s-overview,4.0,2947,Law Enforcement & Security,,"Gurgaon/Gurugram, Haryana",100001+,4.0,3.9,3.9,3.9,3.4,3.8,3.8,Gurgaon/Gurugram,100001+
+333,Ajanta Pharma,https://www.ambitionbox.com/overview/ajanta-pharma-overview,3.9,2939,Pharma,Public,"Mumbai, Maharashtra",5001-10000,3.7,3.9,3.7,3.7,3.3,3.7,3.6,Mumbai,5001-10000
+334,TVS Supply Chain Solutions,https://www.ambitionbox.com/overview/tvs-supply-chain-solutions-overview,3.8,2940,Logistics,,"Chennai, Tamil Nadu",10001-50000,3.7,3.8,3.6,3.3,3.1,3.5,3.5,Chennai,10001-50000
+335,Micro Labs,https://www.ambitionbox.com/overview/micro-labs-overview,3.6,2929,Pharma,,"Bangalore/Bengaluru, Karnataka",1001-5000,3.5,3.8,3.5,3.2,3.2,3.2,3.4,Bangalore/Bengaluru,1001-5000
+336,Photon Interactive,https://www.ambitionbox.com/overview/photon-interactive-overview,4.0,2926,IT Services & Consulting,,London,1001-5000,4.0,3.9,4.1,4.1,4.0,4.0,4.0,London,1001-5000
+337,ACT Fibernet,https://www.ambitionbox.com/overview/act-fibernet-overview,4.0,2932,Telecom,,"Bengaluru/Bangalore, Karnataka",5001-10000,3.8,3.9,3.7,3.8,3.4,3.9,3.7,Bengaluru/Bangalore,5001-10000
+338,Movate,https://www.ambitionbox.com/overview/movate-overview,3.1,2932,IT Services & Consulting,,"Plano, Texas",10001-50000,3.0,2.9,2.9,2.7,2.5,2.8,2.8,Plano,10001-50000
+339,Dalmia Bharat Cement,https://www.ambitionbox.com/overview/dalmia-bharat-cement-limited-overview,3.9,3073,Building Material,Public,"Delhi/NCR, New Delhi",5001-10000,3.6,3.8,3.7,3.8,3.3,3.7,3.6,Delhi/NCR,5001-10000
+340,Shell,https://www.ambitionbox.com/overview/shell-overview,3.8,2915,Oil & Gas,Public,"London, England",50001-100000,4.2,3.2,3.4,3.8,2.9,3.9,3.5,London,50001-100000
+341,KFintech,https://www.ambitionbox.com/overview/kfintech-overview,3.3,2910,Financial Services,,Hyderabad,5001-10000,3.4,3.6,3.1,2.6,2.5,3.2,3.2,Hyderabad,5001-10000
+342,Voltas,https://www.ambitionbox.com/overview/voltas-overview,4.0,2904,Consumer Electronics & Appliances,Public,"Mumbai, Maharashtra",10001-50000,3.9,4.0,3.8,3.6,3.2,3.8,3.7,Mumbai,10001-50000
+343,IntouchCX,https://www.ambitionbox.com/overview/intouchcx-overview,2.7,2891,BPO,,"Winnipeg, Manitoba",10001-50000,2.7,2.5,2.6,2.7,2.3,2.7,2.6,Winnipeg,10001-50000
+344,ElasticRun,https://www.ambitionbox.com/overview/elasticrun-overview,3.6,2888,Logistics,,"Pune, Maharashtra",1001-5000,3.5,3.1,3.6,3.7,3.3,3.5,3.4,Pune,1001-5000
+345,KPMG Global Services,https://www.ambitionbox.com/overview/kpmg-global-services-overview,3.4,2887,Management Consulting,,"Gurgaon / Gurugram, Haryana",10001-50000,3.4,3.6,3.3,3.2,2.9,3.4,3.1,Gurgaon / Gurugram,10001-50000
+346,Flex,https://www.ambitionbox.com/overview/flex-overview,3.9,2883,Electronics Manufacturing,,"Austin, Texas",100001+,4.0,3.7,3.8,3.5,3.0,4.0,3.8,Austin,100001+
+347,Adani Power,https://www.ambitionbox.com/overview/adani-power-overview,3.8,2883,Power,Public,"Ahmedabad, Gujrat",1001-5000,3.6,3.7,3.7,3.7,3.3,3.5,3.5,Ahmedabad,1001-5000
+348,Himalaya Wellness,https://www.ambitionbox.com/overview/the-himalaya-drug-company-overview,3.9,2875,Pharma,,"San Francisco,California",5001-10000,3.8,3.6,3.6,3.6,3.1,3.7,3.5,San Francisco,5001-10000
+349,Sonalika Tractors,https://www.ambitionbox.com/overview/sonalika-tractors-overview,3.5,2874,Automobile,,"Hoshiarpur, Punjab",1001-5000,3.2,3.7,3.4,3.3,3.1,3.2,3.3,Hoshiarpur,1001-5000
+350,NoBroker,https://www.ambitionbox.com/overview/nobroker-overview,3.0,2869,Internet,,"Bangalore,Karnataka",5001-10000,2.8,2.7,2.9,3.1,2.7,2.8,2.7,Bangalore,5001-10000
+351,GAO Tek,https://www.ambitionbox.com/overview/gao-tek-overview,4.3,2847,Electrical Equipment,,New York,201-500,4.3,3.9,4.4,2.8,4.0,4.2,4.2,New York,201-500
+352,TaskUs,https://www.ambitionbox.com/overview/taskus-overview,2.9,2850,BPO,,"New Braunfels, Texas",100001+,3.0,2.5,2.7,2.8,2.5,3.0,2.8,New Braunfels,100001+
+353,Laurus Labs,https://www.ambitionbox.com/overview/laurus-labs-overview,4.3,2842,Pharma,Public,"Hyderabad/Secunderabad, Telangana",5001-10000,4.1,4.2,4.1,4.2,3.7,4.1,3.9,Hyderabad/Secunderabad,5001-10000
+354,Fortis Healthcare,https://www.ambitionbox.com/overview/fortis-healthcare-overview,4.0,2841,Healthcare,Public,"Gurgaon/Gurugram, Haryana",10001-50000,3.9,4.0,4.0,3.7,3.5,3.9,3.8,Gurgaon/Gurugram,10001-50000
+355,BlackBuck,https://www.ambitionbox.com/overview/blackbuck-overview,3.7,2839,Internet,,"Bangalore,Karnataka",1001-5000,3.6,3.3,3.6,3.6,3.3,3.5,3.5,Bangalore,1001-5000
+356,DBS Bank,https://www.ambitionbox.com/overview/dbs-bank-overview,3.7,2836,Banking,,"Mumbai, Maharashtra",10001-50000,3.6,3.5,3.6,3.8,3.2,3.6,3.4,Mumbai,10001-50000
+357,Foundever,https://www.ambitionbox.com/overview/sitel-overview,3.3,2837,BPO,,"Miami, Florida",100001+,3.3,3.3,3.1,2.9,2.6,3.2,3.1,Miami,100001+
+358,UnitedHealth,https://www.ambitionbox.com/overview/unitedhealth-overview,4.0,2832,Healthcare,,"Minnetonka, Minnesota",100001+,4.0,4.1,3.6,3.4,3.1,4.0,3.7,Minnetonka,100001+
+359,CorroHealth Infotech,https://www.ambitionbox.com/overview/corrohealth-infotech-overview,3.5,2844,Analytics & KPO,,"Plano, Texas",5001-10000,3.3,3.2,3.5,3.8,3.2,3.4,3.3,Plano,5001-10000
+360,V-Mart,https://www.ambitionbox.com/overview/v-mart-overview,3.9,2796,Retail,Public,"Gurgaon/Gurugram, Haryana",10001-50000,3.8,3.9,4.0,3.7,3.5,3.8,3.7,Gurgaon/Gurugram,10001-50000
+361,BT Group,https://www.ambitionbox.com/overview/bt-group-overview,3.8,2780,Telecom,,London,100001+,4.1,3.6,3.3,3.4,2.9,3.8,3.5,London,100001+
+362,JCB,https://www.ambitionbox.com/overview/jcb-overview,3.8,2779,Industrial Machinery,,"Rocester, Staffordshire",10001-50000,3.8,3.6,3.6,3.7,3.2,3.7,3.6,Rocester,10001-50000
+363,Capita,https://www.ambitionbox.com/overview/capita-overview,3.5,2777,BPO,,"Indore, Madhya Pradesh",50001-100000,3.7,3.2,3.2,3.1,2.7,3.5,3.3,Indore,50001-100000
+364,Domino's Pizza,https://www.ambitionbox.com/overview/dominos-pizza-overview,3.9,2774,Hospitality,Public,"Ypsilanti, Michigan",10001-50000,3.7,3.7,3.9,3.8,3.7,3.8,3.7,Ypsilanti,10001-50000
+365,Torrent Power,https://www.ambitionbox.com/overview/torrent-power-overview,4.3,2771,Power,Public,,,4.3,4.5,4.1,3.7,3.6,4.2,4.1,,
+366,Adani Group,https://www.ambitionbox.com/overview/adani-group-overview,3.8,2766,Power,Public,,10001-50000,3.6,3.7,3.7,3.8,3.4,3.6,3.6,,10001-50000
+367,Hero FinCorp,https://www.ambitionbox.com/overview/hero-fincorp-overview,3.9,2741,NBFC,,Delhi,1001-5000,3.9,3.7,3.8,3.7,3.2,3.8,3.7,Delhi,1001-5000
+368,Cadila Pharmaceuticals,https://www.ambitionbox.com/overview/cadila-pharmaceuticals-overview,3.0,2718,Pharma,Public,"Ahmedabad, Gujrat",5001-10000,3.0,2.5,3.0,3.2,2.7,2.9,2.9,Ahmedabad,5001-10000
+369,Northern Trust Operating Services,https://www.ambitionbox.com/overview/northern-trust-operating-services-overview,3.6,2716,Financial Services,,"Chicago, Illinois",10001-50000,3.6,3.6,3.4,3.3,3.0,3.6,3.4,Chicago,10001-50000
+370,ICICI Securities,https://www.ambitionbox.com/overview/icici-securities-overview,3.9,2708,Financial Services,Public,"Mumbai, Maharashtra",5001-10000,3.9,3.9,3.7,3.6,3.4,3.7,3.6,Mumbai,5001-10000
+371,Alldigi Tech,https://www.ambitionbox.com/overview/allsec-technologies-overview,3.7,2700,BPO,Public,"Irving, Dallas, Texas",1001-5000,3.7,3.7,3.6,3.3,3.3,3.6,3.6,Irving,1001-5000
+372,Tractors and Farm Equipment,https://www.ambitionbox.com/overview/tafe-tractors-and-farm-equipment-overview,3.9,2694,Industrial Machinery,Public,"Chennai, Tamil Nadu",10001-50000,3.8,3.7,3.8,3.5,3.1,3.7,3.7,Chennai,10001-50000
+373,Whitehat jr,https://www.ambitionbox.com/overview/whitehat-jr-overview,3.3,2692,EdTech,,"Mumbai,Maharashtra",5001-10000,3.1,2.4,3.3,3.5,2.9,3.1,3.1,Mumbai,5001-10000
+374,Emcure Pharmaceuticals,https://www.ambitionbox.com/overview/emcure-pharmaceuticals-overview,3.6,2688,Pharma,,"Pune, Maharashtra",50001-100000,3.5,3.3,3.5,3.5,3.1,3.3,3.4,Pune,50001-100000
+375,Parle Agro,https://www.ambitionbox.com/overview/parle-agro-overview,3.9,2672,Beverage,,"Mumbai, Maharashtra",5001-10000,3.7,3.8,3.6,3.6,3.2,3.5,3.6,Mumbai,5001-10000
+376,Sterlite Technologies,https://www.ambitionbox.com/overview/sterlite-technologies-overview,3.8,2665,Hardware & Networking,Public,"Pune, Maharashtra",5001-10000,3.8,3.4,3.6,3.7,3.2,3.7,3.6,Pune,5001-10000
+377,Sahrudaya Healthcare (Medicover Hospitals),https://www.ambitionbox.com/overview/sahrudaya-health-care-pvt-ltd-maxcure-overview,4.2,2666,Healthcare,,"Hyderabad/Secunderabad, Telangana",5001-10000,4.1,4.1,4.2,4.0,3.9,4.1,4.1,Hyderabad/Secunderabad,5001-10000
+378,Bajaj Electricals,https://www.ambitionbox.com/overview/bajaj-electricals-overview,3.8,2665,Consumer Electronics & Appliances,Public,"Mumbai, Maharashtra",1001-5000,3.8,3.5,3.6,3.7,3.2,3.6,3.6,Mumbai,1001-5000
+379,Biocon Limited,https://www.ambitionbox.com/overview/biocon-overview,4.0,2660,Biotechnology,Public,"Bangalore Rural, Karnataka",5001-10000,4.0,3.7,3.7,3.7,3.2,3.8,3.7,Bangalore Rural,5001-10000
+380,RMSI,https://www.ambitionbox.com/overview/rmsi-overview,3.6,2659,IT Services & Consulting,,"Noida, Uttar Pradesh",1001-5000,3.5,3.6,3.3,3.1,2.8,3.5,3.4,Noida,1001-5000
+381,Mahindra Holidays & Resorts,https://www.ambitionbox.com/overview/mahindra-holidays-and-resorts-overview,3.5,2651,Hospitality,Public,"Mumbai, Maharashtra",5001-10000,3.2,3.4,3.4,3.6,3.0,3.3,3.2,Mumbai,5001-10000
+382,Team Computers,https://www.ambitionbox.com/overview/team-computers-overview,3.7,2648,IT Services & Consulting,,"Delhi/NCR, Delhi",5001-10000,3.7,3.5,3.6,3.4,3.2,3.6,3.5,Delhi/NCR,5001-10000
+383,Mahindra Rural Housing Finance,https://www.ambitionbox.com/overview/mahindra-rural-housing-finance-overview,4.0,2632,NBFC,Public,"Mumbai,Maharashtra",10001-50000,3.9,3.6,3.7,3.6,3.3,3.8,3.7,Mumbai,10001-50000
+384,Newgen Software Technologies,https://www.ambitionbox.com/overview/newgen-software-technologies-overview,4.1,2633,IT Services & Consulting,Public,"New Delhi, Delhi",1001-5000,4.0,4.4,3.9,4.0,3.9,4.0,3.9,New Delhi,1001-5000
+385,Syngene International,https://www.ambitionbox.com/overview/syngene-international-overview,3.6,2628,Clinical Research,Public,"Bangalore/Bengaluru, Karnataka",5001-10000,3.7,3.4,3.5,3.3,2.8,3.5,3.4,Bangalore/Bengaluru,5001-10000
+386,Bureau Veritas,https://www.ambitionbox.com/overview/bureau-veritas-overview,3.8,2624,Other,,"Paris La Défense, Hauts-de-Seine",50001-100000,3.9,3.6,3.6,3.5,3.0,3.7,3.6,Paris La Défense,50001-100000
+387,Aavas Financiers ,https://www.ambitionbox.com/overview/aavas-financiers-overview,3.9,2617,NBFC,Public,"Jaipur, Rajasthan",5001-10000,3.7,3.7,3.8,3.6,3.4,3.7,3.7,Jaipur,5001-10000
+388,Intellect Design Arena,https://www.ambitionbox.com/overview/intellect-design-arena-overview,3.4,2613,Software Product,Public,"Chennai, Tamil Nadu",5001-10000,3.2,3.7,3.2,3.4,3.0,3.2,3.2,Chennai,5001-10000
+389,SBI Securities,https://www.ambitionbox.com/overview/sbicap-securities-overview,3.6,2613,Financial Services,,"Mumbai, Maharashtra",10001-50000,3.5,3.4,3.4,3.3,3.0,3.4,3.3,Mumbai,10001-50000
+390,Planet Spark,https://www.ambitionbox.com/overview/planet-spark-overview,3.7,2606,EdTech,,"Gurgaon,Haryana",201-500,3.6,3.5,3.8,3.5,3.5,3.6,3.6,Gurgaon,201-500
+391,Datamatics Global Services,https://www.ambitionbox.com/overview/datamatics-global-services-overview,3.4,2608,IT Services & Consulting,Public,"Mumbai, Maharashtra",1001-5000,3.3,3.2,3.2,2.9,2.6,3.2,3.2,Mumbai,1001-5000
+392,McDonald's,https://www.ambitionbox.com/overview/mcdonalds-overview,3.8,2606,Hospitality,,"Chicago, Illinois",100001+,3.6,3.7,3.9,3.3,3.4,3.6,3.5,Chicago,100001+
+393,Taj Hotels Resorts and Palaces,https://www.ambitionbox.com/overview/taj-hotels-resorts-and-palaces-overview,4.2,2604,Hospitality,,"Mumbai, Maharashtra",10001-50000,4.0,4.3,4.1,3.8,3.6,4.1,3.9,Mumbai,10001-50000
+394,TCE,https://www.ambitionbox.com/overview/tce-overview,3.9,2596,Engineering & Construction,,"Mumbai, Maharashtra",1001-5000,3.9,4.0,3.7,3.6,3.1,3.7,3.7,Mumbai,1001-5000
+395,Star Union Dai-ichi Life Insurance,https://www.ambitionbox.com/overview/star-union-dai-ichi-life-insurance-company-overview,3.7,2596,Insurance,,"Navi Mumbai, Maharashtra",5001-10000,3.7,3.6,3.5,3.6,3.4,3.5,3.5,Navi Mumbai,5001-10000
+396,Daikin Airconditioning India Pvt. Ltd.,https://www.ambitionbox.com/overview/daikin-airconditioning-india-pvt-dot-ltd-dot-overview,4.1,2584,Consumer Electronics & Appliances,,"Osaka City, Osaka",50001-100000,4.1,4.3,3.9,3.4,3.4,4.0,3.8,Osaka City,50001-100000
+397,GVK Emergency Management and Research Institute,https://www.ambitionbox.com/overview/gvk-emergency-management-and-research-institute-overview,3.5,2580,Non-Profit,,"Hyderabad/Secunderabad, Telangana",10001-50000,3.4,3.2,3.5,3.3,3.1,3.3,3.4,Hyderabad/Secunderabad,10001-50000
+398,Delhi Public School,https://www.ambitionbox.com/overview/delhi-public-school-overview,3.7,2579,Education & Training,Public,"Greater Noida, Uttar Pradesh",1001-5000,3.6,3.4,3.6,3.6,3.3,3.4,3.5,Greater Noida,1001-5000
+399,Cholamandalam MS General Insurance,https://www.ambitionbox.com/overview/cholamandalam-ms-general-insurance-overview,3.6,2579,Insurance,,"Chennai, Tamil Nadu",50001-100000,3.5,3.5,3.4,3.4,3.0,3.5,3.4,Chennai,50001-100000
+400,Lodha,https://www.ambitionbox.com/overview/lodha-overview,4.2,2577,Real Estate,,"Mumbai, Maharashtra",1001-5000,4.1,4.1,4.1,4.1,3.7,4.1,4.0,Mumbai,1001-5000
+401,3i Infotech,https://www.ambitionbox.com/overview/3i-infotech-overview,3.5,2565,IT Services & Consulting,Public,"Navi Mumbai, Maharashtra",5001-10000,3.4,3.2,3.2,3.1,2.8,3.3,3.3,Navi Mumbai,5001-10000
+402,Patanjali Ayurved,https://www.ambitionbox.com/overview/patanjali-ayurved-overview,3.9,2553,FMCG,,"Haridwar, Uttarakhand",5001-10000,3.9,3.7,3.7,3.7,3.3,3.7,3.7,Haridwar,5001-10000
+403,Straive,https://www.ambitionbox.com/overview/straive-overview,3.3,2549,IT Services & Consulting,,Singapore,10001-50000,3.4,3.3,3.0,2.8,2.5,3.3,3.2,Singapore,10001-50000
+404,Paras Hospital,https://www.ambitionbox.com/overview/paras-hospital-overview,4.0,2544,Healthcare,,"Gurgaon/Gurugram, Haryana",1001-5000,3.9,3.7,3.9,3.9,3.6,3.8,3.8,Gurgaon/Gurugram,1001-5000
+405,Kia India,https://www.ambitionbox.com/overview/kia-india-overview,3.9,2546,Automobile,,Seoul,1001-5000,3.7,3.8,3.8,3.7,3.4,3.7,3.6,Seoul,1001-5000
+406,Bharat Petroleum,https://www.ambitionbox.com/overview/bharat-petroleum-overview,4.2,2542,Oil & Gas,,"Mumbai, Maharashtra",5001-10000,4.0,3.8,4.1,3.9,3.5,4.0,4.0,Mumbai,5001-10000
+407,Manipal Hospitals,https://www.ambitionbox.com/overview/manipal-hospital-overview,4.1,2538,Healthcare,,"Bangalore/Bengaluru, Karnataka",5001-10000,3.8,4.0,4.0,3.7,3.4,3.9,3.7,Bangalore/Bengaluru,5001-10000
+408,BNP Paribas,https://www.ambitionbox.com/overview/bnp-paribas-overview,3.6,2524,Banking,,Paris,100001+,3.8,4.0,3.3,3.2,2.8,3.5,3.3,Paris,100001+
+409,Endurance Technologies Limited,https://www.ambitionbox.com/overview/endurance-technologies-overview,3.9,2522,Auto Components,Public,"Aurangabad, Maharashtra",5001-10000,3.6,3.8,3.8,3.7,3.3,3.6,3.6,Aurangabad,5001-10000
+410,Info Edge,https://www.ambitionbox.com/overview/info-edge-overview,3.8,2513,Internet,Public,"Noida, Uttar Pradesh",5001-10000,3.7,4.0,3.4,3.4,3.2,3.7,3.4,Noida,5001-10000
+411,SBI General Insurance,https://www.ambitionbox.com/overview/sbi-general-insurance-overview,3.5,2508,Insurance,,"Mumbai, Maharashtra",10001-50000,3.4,3.4,3.3,3.4,3.0,3.3,3.2,Mumbai,10001-50000
+412,Apollo Pharmacy,https://www.ambitionbox.com/overview/apollo-pharmacy-overview,3.7,2505,Pharma,,"Chennai, Tamil Nadu",10001-50000,3.6,3.8,3.7,3.3,3.2,3.6,3.4,Chennai,10001-50000
+413,JK Tyre,https://www.ambitionbox.com/overview/jk-tyre-overview,3.9,2505,Auto Components,,New Delhi,10001-50000,3.7,3.7,3.7,3.5,3.3,3.6,3.6,New Delhi,10001-50000
+414,Sobha,https://www.ambitionbox.com/overview/sobha-overview,3.8,2491,Real Estate,Public,"Bangalore/Bengaluru, Karnataka",1001-5000,3.4,3.8,3.7,3.4,3.3,3.6,3.5,Bangalore/Bengaluru,1001-5000
+415,Sopra Steria,https://www.ambitionbox.com/overview/sopra-steria-overview,3.9,2489,IT Services & Consulting,,"Paris, Ile-de-France",50001-100000,4.1,4.0,3.6,3.4,3.2,4.0,3.7,Paris,50001-100000
+416,Panasonic Life Solutions India,https://www.ambitionbox.com/overview/panasonic-life-solutions-overview,3.9,2489,Consumer Electronics & Appliances,,"Gurgaon / Gurugram, Haryana",10001-50000,3.9,3.9,3.7,3.8,3.3,3.8,3.7,Gurgaon / Gurugram,10001-50000
+417,Akums Drugs & Pharmaceuticals Limited,https://www.ambitionbox.com/overview/akums-drugs-and-pharmaceuticals-overview,4.2,2487,Pharma,Public,"Delhi/NCR, New Delhi",5001-10000,4.0,4.3,4.1,4.0,3.8,4.0,4.0,Delhi/NCR,5001-10000
+418,Bharti AXA Life Insurance,https://www.ambitionbox.com/overview/bharti-axa-life-insurance-overview,3.6,2481,Insurance,,Mumbai,1001-5000,3.5,3.3,3.4,3.5,3.3,3.4,3.4,Mumbai,1001-5000
+419,AWL Agri Business,https://www.ambitionbox.com/overview/adani-wilmar-overview,4.1,2475,FMCG,Public,"Ahmedabad, Gujrat",1001-5000,3.9,4.2,4.0,4.0,3.5,3.9,3.8,Ahmedabad,1001-5000
+420,Radisson Hotels,https://www.ambitionbox.com/overview/radisson-hotels-overview,4.0,2468,Hospitality,,"Minnetonka, Minnesota",50001-100000,3.8,3.9,3.9,3.7,3.6,3.8,3.8,Minnetonka,50001-100000
+421,Eureka Forbes,https://www.ambitionbox.com/overview/eureka-forbes-overview,3.6,2464,Consumer Electronics & Appliances,,"Mumbai, Maharashtra",1001-5000,3.4,3.1,3.5,3.5,3.0,3.3,3.3,Mumbai,1001-5000
+422,Cybage,https://www.ambitionbox.com/overview/cybage-overview,3.8,2464,IT Services & Consulting,,"Pune, Maharashtra",5001-10000,3.9,3.7,3.4,3.4,3.0,3.8,3.4,Pune,5001-10000
+423,Axis Direct,https://www.ambitionbox.com/overview/axis-direct-overview,3.7,2464,Financial Services,,"San Mateo,California",10001-50000,3.6,3.6,3.5,3.5,3.2,3.5,3.4,San Mateo,10001-50000
+424,Capgemini Engineering,https://www.ambitionbox.com/overview/capgemini-engineering-overview,3.3,2454,IT Services & Consulting,,,,3.5,3.5,3.2,2.7,2.5,3.2,3.0,,
+425,Myntra,https://www.ambitionbox.com/overview/myntra-overview,3.8,2448,Internet,,"Bangalore / Bengaluru, Karnataka",1001-5000,3.7,3.5,3.7,3.6,3.1,3.8,3.6,Bangalore / Bengaluru,1001-5000
+426,Renault Nissan Technology & Business Centre India,https://www.ambitionbox.com/overview/renault-nissan-technology-and-business-centre-overview,3.5,2448,Automobile,,"Chennai, Tamil Nadu",10001-50000,3.7,3.5,3.3,3.1,2.7,3.4,3.2,Chennai,10001-50000
+427,Xoriant,https://www.ambitionbox.com/overview/xoriant-overview,3.9,2439,IT Services & Consulting,,"Sunnyvale, California",5001-10000,4.0,3.5,3.8,3.8,3.3,3.9,3.8,Sunnyvale,5001-10000
+428,Lifestyle,https://www.ambitionbox.com/overview/lifestyle-overview,4.1,2437,Retail,,"Bangalore/Bengaluru, Karnataka",10001-50000,4.0,4.0,4.0,3.7,3.5,3.9,3.9,Bangalore/Bengaluru,10001-50000
+429,Bank of Baroda,https://www.ambitionbox.com/overview/bank-of-baroda-overview,3.7,2436,Banking,,"Vadodara/Baroda, Gujrat",50001-100000,3.5,3.8,3.5,3.6,3.1,3.4,3.3,Vadodara/Baroda,50001-100000
+430,Aditya Birla Group,https://www.ambitionbox.com/overview/aditya-birla-group-overview,4.1,2433,Metals & Mining,,"Mumbai, Maharashtra",100001+,4.0,4.1,4.0,3.8,3.5,3.9,3.8,Mumbai,100001+
+431,KocharTech,https://www.ambitionbox.com/overview/kochartech-overview,3.6,2432,IT Services & Consulting,,"Amritsar, Punjab",5001-10000,3.4,3.5,3.5,3.3,3.3,3.4,3.4,Amritsar,5001-10000
+432,Statestreet HCL Services,https://www.ambitionbox.com/overview/statestreet-hcl-services-overview,3.4,2431,BPO,,New Delhi,5001-10000,3.1,3.7,3.2,2.8,2.7,3.0,3.0,New Delhi,5001-10000
+433,Meesho,https://www.ambitionbox.com/overview/meesho-overview,3.7,2433,Internet,,"Bengaluru/Bangalore, Karnataka",1001-5000,3.6,3.2,3.6,3.8,3.2,3.6,3.6,Bengaluru/Bangalore,1001-5000
+434,Infinite Computer Solutions,https://www.ambitionbox.com/overview/infinite-computer-solutions-overview,3.2,2429,IT Services & Consulting,,"Rockville, Maryland, United States",10001-50000,3.2,2.8,2.9,3.0,2.6,3.0,2.9,Rockville,10001-50000
+435,Indian Railways,https://www.ambitionbox.com/overview/indian-railways-overview,4.2,2428,Railways,,"Delhi/NCR, Delhi",100001+,4.0,4.2,4.0,3.9,3.6,4.0,3.9,Delhi/NCR,100001+
+436,"Maruti Suzuki India Limited, Hansalpur",https://www.ambitionbox.com/overview/suzuki-motor-gujarat-overview,4.3,2419,Automobile,,"Hamamatsu, Kagawa",,4.1,4.2,4.1,4.3,3.8,4.2,4.1,Hamamatsu,
+437,Unacademy,https://www.ambitionbox.com/overview/unacademy-overview,3.0,2412,EdTech,,"Bangalore,Karnataka",1001-5000,2.7,2.4,2.9,3.2,2.5,2.7,2.7,Bangalore,1001-5000
+438,Cisco,https://www.ambitionbox.com/overview/cisco-overview,4.1,2409,Hardware & Networking,Public,"San Jose,California",10001-50000,4.3,3.4,3.9,3.9,3.4,4.2,3.9,San Jose,10001-50000
+439,Coromandel International Limited,https://www.ambitionbox.com/overview/coromandel-international-overview,4.0,2404,Agro Chemicals,Public,"Chennai, Tamil Nadu",5001-10000,3.8,4.1,3.8,3.5,3.3,3.8,3.7,Chennai,5001-10000
+440,Power Mech Projects,https://www.ambitionbox.com/overview/power-mech-projects-overview,3.8,2405,Engineering & Construction,Public,"Hyderabad/Secunderabad, Telangana",10001-50000,3.7,3.9,3.7,3.5,3.3,3.5,3.7,Hyderabad/Secunderabad,10001-50000
+441,Sify Technologies,https://www.ambitionbox.com/overview/sify-technologies-overview,3.6,2398,IT Services & Consulting,,"Chennai,Tamil Nadu",1001-5000,3.6,3.6,3.6,3.2,2.8,3.3,3.4,Chennai,1001-5000
+442,Whirlpool,https://www.ambitionbox.com/overview/whirlpool-overview,4.0,2387,Consumer Electronics & Appliances,Public,"Benton Harbor, Michigan",100001+,4.1,3.7,3.8,3.6,3.3,3.9,3.8,Benton Harbor,100001+
+443,Nuvoco Vistas,https://www.ambitionbox.com/overview/nuvoco-vistas-corp-overview,4.1,2380,Building Material,,Mumbai,1001-5000,3.9,4.0,4.0,4.0,3.5,3.9,3.8,Mumbai,1001-5000
+444,Poonawalla Fincorp,https://www.ambitionbox.com/overview/poonawalla-fincorp-overview,3.6,2379,NBFC,Public,"Mumbai, Maharashtra",1001-5000,3.5,3.3,3.4,3.8,3.1,3.4,3.3,Mumbai,1001-5000
+445,Spark Minda,https://www.ambitionbox.com/overview/spark-minda-overview,3.8,2378,Auto Components,Public,"Noida, Uttar Pradesh",1001-5000,3.5,3.6,3.7,3.6,3.3,3.4,3.5,Noida,1001-5000
+446,FirstCry,https://www.ambitionbox.com/overview/firstcry-overview,3.6,2374,Retail,,"Pune,Maharashtra",1001-5000,3.5,3.4,3.4,3.3,2.9,3.3,3.3,Pune,1001-5000
+447,Shahi Exports,https://www.ambitionbox.com/overview/shahi-exports-overview,3.9,2369,Fashion & Textile,,"Faridabad, Haryana",100001+,3.8,3.9,3.7,3.6,3.3,3.8,3.7,Faridabad,100001+
+448,Mercedes-Benz Research and Development India,https://www.ambitionbox.com/overview/mercedes-benz-research-and-development-indi-mbrdi-dot-co-dot-in-overview,3.6,2364,IT Services & Consulting,Public,"Bengaluru/Bangalore, Karnataka",5001-10000,4.0,3.8,3.2,3.3,2.6,3.5,3.2,Bengaluru/Bangalore,5001-10000
+449,Allstate,https://www.ambitionbox.com/overview/allstate-solutions-overview,3.7,2357,Insurance,,"Bangalore/Bengaluru, Karnataka",5001-10000,3.9,3.5,3.6,3.6,3.0,3.7,3.5,Bangalore/Bengaluru,5001-10000
+450,Saint-Gobain,https://www.ambitionbox.com/overview/saint-gobain-overview,3.8,2352,Building Material,,Paris,100001+,3.8,4.0,3.7,3.3,3.0,3.8,3.5,Paris,100001+
+451,Shadowfax Technologies,https://www.ambitionbox.com/overview/shadowfax-technologies-overview,3.5,2353,Logistics,Public,"Bangalore,Karnataka",501-1000,3.3,3.2,3.5,3.5,3.1,3.3,3.3,Bangalore,501-1000
+452,ValueLabs,https://www.ambitionbox.com/overview/valuelabs-overview,3.4,2348,IT Services & Consulting,,,5001-10000,3.4,3.1,3.0,3.4,2.8,3.2,3.1,,5001-10000
+453,Life Insurance Corporation of India,https://www.ambitionbox.com/overview/life-insurance-corporation-of-india-overview,4.4,2347,Insurance,,Mumbai,50001-100000,4.3,4.2,4.2,4.2,3.9,4.3,4.2,Mumbai,50001-100000
+454,CAMS,https://www.ambitionbox.com/overview/cams-overview,3.5,2340,Financial Services,,Chennai,5001-10000,3.5,3.9,3.3,2.8,2.6,3.3,3.3,Chennai,5001-10000
+455,Brakes India,https://www.ambitionbox.com/overview/brakes-india-overview,3.8,2337,Auto Components,,"Chennai, Tamil Nadu",10001-50000,3.7,3.9,3.8,3.3,3.0,3.7,3.7,Chennai,10001-50000
+456,Jio Platforms,https://www.ambitionbox.com/overview/jio-platforms-overview,3.4,2339,IT Services & Consulting,,,,3.5,4.1,3.2,3.0,2.6,3.1,3.1,,
+457,BHEL,https://www.ambitionbox.com/overview/bhel-overview,4.2,2329,Electrical Equipment,,"Bangalore/Bengaluru, Karnataka",10001-50000,4.2,4.3,4.1,4.0,3.7,4.0,4.1,Bangalore/Bengaluru,10001-50000
+458,IndusInd General Insurance,https://www.ambitionbox.com/overview/reliance-general-insurance-overview,3.7,2323,Insurance,,,,3.6,3.4,3.4,3.5,3.0,3.4,3.4,,
+459,GlaxoSmithKline Pharmaceuticals,https://www.ambitionbox.com/overview/glaxosmithkline-pharmaceuticals-overview,4.1,2318,Pharma,,Brentford,50001-100000,4.1,3.6,3.9,4.0,3.3,4.0,3.8,Brentford,50001-100000
+460,Lava International,https://www.ambitionbox.com/overview/lava-international-overview,3.9,2307,Consumer Electronics & Appliances,Public,"Noida,Uttar Pradesh",1001-5000,3.9,3.8,3.8,3.8,3.3,3.9,3.7,Noida,1001-5000
+461,Cargill,https://www.ambitionbox.com/overview/cargill-overview,3.9,2304,Food Processing,,USA,100001+,3.9,3.5,3.6,3.7,3.0,3.9,3.6,USA,100001+
+462,Force Motors,https://www.ambitionbox.com/overview/force-motors-overview,3.7,2302,Automobile,Public,"Pune, Maharashtra",1001-5000,3.8,3.7,3.5,3.6,3.2,3.4,3.5,Pune,1001-5000
+463,NTT DATA Business Solutions,https://www.ambitionbox.com/overview/ntt-data-business-solutions-overview,4.0,2302,IT Services & Consulting,,,10001-50000,4.0,3.9,3.8,3.7,3.4,3.9,3.8,,10001-50000
+464,Henry Harvin Education,https://www.ambitionbox.com/overview/henry-harvin-education-overview,4.0,2301,EdTech,,"Noida, Uttar Pradesh",201-500,4.0,4.0,4.0,3.9,3.9,3.9,4.0,Noida,201-500
+465,CitiusTech,https://www.ambitionbox.com/overview/citiustech-overview,3.1,2301,IT Services & Consulting,,New Jersey,5001-10000,3.3,2.7,3.1,2.9,2.6,3.2,2.9,New Jersey,5001-10000
+466,Kotak Securities,https://www.ambitionbox.com/overview/kotak-securities-overview,3.4,2296,Financial Services,,"Mumbai, Maharashtra",5001-10000,3.4,3.4,3.0,3.2,2.8,3.1,3.1,Mumbai,5001-10000
+467,EPAM Systems,https://www.ambitionbox.com/overview/epam-systems-overview,3.7,2305,IT Services & Consulting,,"Newtown, Pennsylvania, United States",10001-50000,3.8,3.2,3.9,3.8,3.0,3.6,3.4,Newtown,10001-50000
+468,Trent,https://www.ambitionbox.com/overview/trent-overview,3.8,2287,Retail,Public,"Mumbai, Maharashtra",5001-10000,3.5,4.1,3.7,3.6,3.4,3.6,3.5,Mumbai,5001-10000
+469,Tekwissen,https://www.ambitionbox.com/overview/tekwissen-overview,4.9,2293,IT Services & Consulting,,"Visakhapatnam, Andhra Pradesh",501-1000,4.9,4.9,4.9,4.8,4.6,4.9,4.9,Visakhapatnam,501-1000
+470,Microsoft Corporation,https://www.ambitionbox.com/overview/microsoft-corporation-overview,3.7,2283,Software Product,,Sunnyvale,10001-50000,3.9,3.1,3.7,3.7,3.1,3.8,3.6,Sunnyvale,10001-50000
+471,Aditya Birla Health Insurance Co,https://www.ambitionbox.com/overview/aditya-birla-health-insurance-co-overview,3.7,2283,Insurance,,Mumbai,100001+,3.7,3.7,3.7,3.6,3.2,3.6,3.5,Mumbai,100001+
+472,ITC Hotels,https://www.ambitionbox.com/overview/itc-hotels-overview,4.1,2276,Hospitality,Public,"Kolkata, West Bengal",1001-5000,3.8,4.0,3.9,3.6,3.3,3.8,3.7,Kolkata,1001-5000
+473,Biological E,https://www.ambitionbox.com/overview/biological-e-overview,4.3,2276,Pharma,,"Hyderabad/Secunderabad, Telangana",1001-5000,4.2,4.3,3.8,3.8,3.6,4.1,3.9,Hyderabad/Secunderabad,1001-5000
+474,SGS,https://www.ambitionbox.com/overview/sgs-overview,3.8,2276,Engineering & Construction,,"Geneva, Geneva",100001+,3.7,3.6,3.6,3.3,2.9,3.6,3.5,Geneva,100001+
+475,upGrad,https://www.ambitionbox.com/overview/upgrad-overview,3.3,2272,EdTech,,"San Francisco,California",1001-5000,3.1,2.8,3.1,3.3,2.8,3.1,3.0,San Francisco,1001-5000
+476,K12 Techno Services,https://www.ambitionbox.com/overview/k12-techno-services-overview,3.7,2273,EdTech,,"Bangalore/Bengaluru, Karnataka",501-1000,3.6,3.4,3.7,3.6,3.3,3.5,3.6,Bangalore/Bengaluru,501-1000
+477,Provana,https://www.ambitionbox.com/overview/provana-overview,4.0,2267,BPO,,"Lisle, Illinois",501-1000,3.9,3.9,3.8,3.7,3.6,4.0,3.8,Lisle,501-1000
+478,TELUS Digital,https://www.ambitionbox.com/overview/telus-digital-overview,3.5,2265,IT Services & Consulting,,"Vancouver, British Columbia",100001+,3.6,3.2,3.2,3.4,2.9,3.4,3.3,Vancouver,100001+
+479,Aye Finance,https://www.ambitionbox.com/overview/aye-finance-overview,4.0,2254,NBFC,,"Gurgaon / Gurugram, Haryana",10001-50000,3.9,3.8,3.9,4.0,3.6,3.9,3.8,Gurgaon / Gurugram,10001-50000
+480,Nokia Networks,https://www.ambitionbox.com/overview/nokia-seimens-network-overview,4.1,2254,Hardware & Networking,,,,4.1,3.8,3.8,3.6,3.2,4.0,3.9,,
+481,Narayana Health,https://www.ambitionbox.com/overview/narayana-health-overview,4.0,2259,Healthcare,Public,"Bangalore/Bengaluru, Karnataka",10001-50000,3.8,4.0,3.9,3.5,3.2,3.8,3.7,Bangalore/Bengaluru,10001-50000
+482,Haier Appliances India ,https://www.ambitionbox.com/overview/haier-appliances-india-pvt-overview,3.9,2238,Consumer Electronics & Appliances,,Qingdao,1001-5000,3.7,3.7,3.8,3.7,3.4,3.7,3.7,Qingdao,1001-5000
+483,Pfizer,https://www.ambitionbox.com/overview/pfizer-overview,3.9,2234,Pharma,Public,"Chennai, Tamil Nadu",100001+,4.0,3.2,3.6,3.6,2.9,3.9,3.6,Chennai,100001+
+484,Reliance Trends,https://www.ambitionbox.com/overview/reliance-trends-overview,4.1,2226,Retail,,"Navi Mumbai, Maharashtra",100001+,3.9,4.1,4.1,3.6,3.5,4.0,3.9,Navi Mumbai,100001+
+485,Morgan Stanley,https://www.ambitionbox.com/overview/morgan-stanley-overview,3.5,2221,Financial Services,,"New York, New York",50001-100000,3.6,2.9,3.2,3.6,2.8,3.5,3.2,New York,50001-100000
+486,Delphi TVS,https://www.ambitionbox.com/overview/delphi-tvs-overview,3.8,2222,Auto Components,,"Kanchipuram, Tamil Nadu",1001-5000,3.7,3.7,3.8,3.3,2.9,3.7,3.7,Kanchipuram,1001-5000
+487,CMS Infosystems,https://www.ambitionbox.com/overview/cms-infosystems-overview,3.5,2218,Software Product,,"Mumbai,Maharashtra",5001-10000,3.3,3.4,3.3,3.1,2.8,3.2,3.2,Mumbai,5001-10000
+488,Rungta Mines,https://www.ambitionbox.com/overview/rungta-mines-ltd-dot-overview,3.9,2216,Metals & Mining,Public,"Singhbum, Jharkhand",201-500,3.8,3.7,3.5,3.9,3.6,3.4,3.6,Singhbum,201-500
+489,Globiva,https://www.ambitionbox.com/overview/globiva-overview,3.0,2201,BPO,,"Gurgaon/Gurugram, Haryana",1001-5000,2.9,2.8,2.8,2.7,2.5,2.8,2.8,Gurgaon/Gurugram,1001-5000
+490,Godrej Properties,https://www.ambitionbox.com/overview/godrej-properties-overview,3.6,2206,Real Estate,Public,"Mumbai, Maharashtra",1001-5000,3.3,3.6,3.4,3.9,2.9,3.3,3.2,Mumbai,1001-5000
+491,Hinduja Leyland Finance,https://www.ambitionbox.com/overview/hinduja-leyand-finance-overview,4.2,2202,NBFC,,"Chennai, Tamil Nadu",1001-5000,4.2,4.1,4.0,3.7,3.5,4.1,4.1,Chennai,1001-5000
+492,Motherson Automotive Technologies and Engineering,https://www.ambitionbox.com/overview/motherson-automotive-technologies-and-engineering-overview,3.8,2199,Auto Components,,Noida,1001-5000,3.5,3.9,3.8,3.5,3.2,3.5,3.5,Noida,1001-5000
+493,Microland,https://www.ambitionbox.com/overview/microland-overview,3.6,2191,IT Services & Consulting,Public,Bangalore,1001-5000,3.5,3.6,3.6,3.3,3.0,3.5,3.4,Bangalore,1001-5000
+494,Raymond Lifestyle Limited,https://www.ambitionbox.com/overview/raymond-lifestyle-limited-overview,4.2,2173,Fashion & Textile,Public,New York,1001-5000,4.1,4.0,3.9,3.7,3.2,4.0,3.9,New York,1001-5000
+495,YASH Technologies,https://www.ambitionbox.com/overview/yash-technologies-overview,3.6,2172,IT Services & Consulting,,"East Moline, Illinois",5001-10000,3.7,3.4,3.4,3.3,3.0,3.6,3.4,East Moline,5001-10000
+496,CSB Bank,https://www.ambitionbox.com/overview/catholic-syrian-bank-overview,3.2,2166,Banking,,"Thrissur/Trichur, Kerala",5001-10000,3.2,3.0,3.0,3.2,2.8,2.9,2.9,Thrissur/Trichur,5001-10000
+497,AECOM,https://www.ambitionbox.com/overview/aecom-overview,4.2,2165,Engineering & Construction,,Dallas,50001-100000,4.1,3.8,3.9,3.9,3.4,4.0,3.9,Dallas,50001-100000
+498,Orchids International School,https://www.ambitionbox.com/overview/orchids-international-school-overview,4.0,2159,Education & Training,,"Nasik/Nashik, Maharashtra",1001-5000,3.7,3.7,4.1,3.6,3.5,3.7,3.8,Nasik/Nashik,1001-5000
+499,Schindler,https://www.ambitionbox.com/overview/schindler-overview,3.9,2158,Industrial Machinery,,,,3.6,3.6,3.9,3.8,3.3,3.8,3.6,,
+500,V-Guard,https://www.ambitionbox.com/overview/v-guard-overview,4.2,2157,Electrical Equipment,Public,"Kochi/Cochin, Kerala",1001-5000,4.2,4.2,4.0,3.9,3.3,4.2,4.0,Kochi/Cochin,1001-5000

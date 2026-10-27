@@ -1,0 +1,4 @@
+rank,company_name,company_url,rating,review_count,industry,company_type,headquarters,employees,work_life_balance,job_security,skill_development,salary_benefits,promotions_appraisals,company_culture,work_satisfaction
+1,TCS,https://www.ambitionbox.com/overview/tcs-overview,3.2,122909,IT Services & Consulting,Public,"Mumbai, Maharashtra",100001+,,,,,,,
+2,Accenture,https://www.ambitionbox.com/overview/accenture-overview,3.7,79820,IT Services & Consulting,Public,Dublin,100001+,,,,,,,
+3,Wipro,https://www.ambitionbox.com/overview/wipro-overview,3.6,70057,IT Services & Consulting,Public,"Bangalore/Bengaluru, Karnataka",100001+,,,,,,,
